@@ -118,3 +118,14 @@ select {
 .option-item:hover {
   background-color: #f9f9f9;
 }
+
+.profile-img {
+  display: block;
+  width: 80px;          /* Adjust size as needed */
+  height: 80px;
+  border-radius: 50%;   /* Makes the image circular */
+  object-fit: cover;    /* Ensures image doesn't stretch */
+  margin: 0 auto 10px;  /* Centers the image and adds space below */
+  border: 3px solid white; /* Optional: adds a nice border */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Optional: adds a subtle shadow */
+}
