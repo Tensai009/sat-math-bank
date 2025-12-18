@@ -194,3 +194,13 @@ function renderTable(data) {
     tableHtml += '</tbody></table>';
     return tableHtml;
 }
+
+// Wait for the window to fully load
+window.addEventListener('load', () => {
+    const splash = document.getElementById('splash-screen');
+    
+    // Keep it visible for 2 seconds (2000ms), then fade out
+    setTimeout(() => {
+        splash.classList.add('hidden-splash');
+    }, 2000); 
+});
