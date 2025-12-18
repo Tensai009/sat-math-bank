@@ -1,0 +1,120 @@
+body {
+  font-family: sans-serif;
+  background-color: #f5f7fa; /* Light grey background for contrast */
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.main-container {
+  width: 100%;
+  max-width: 800px; /* Restricts width so lines aren't too long */
+  padding: 20px;
+  background-color: transparent;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+/* Controls (Filter & Counter) */
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  background: white;
+  padding: 10px 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+select {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.counter {
+  font-weight: bold;
+  color: #555;
+}
+
+/* The Designated Question Card */
+.question-card {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  min-height: 300px; /* Ensures the area doesn't collapse too much */
+  margin-bottom: 20px;
+}
+
+/* Navigation Buttons */
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation button {
+  padding: 10px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  transition: background 0.2s;
+}
+
+.navigation button:hover {
+  background-color: #0056b3;
+}
+
+.navigation button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Keep your existing internal element styles */
+.question-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 15px auto; /* Centered image */
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.question-table {
+  border-collapse: collapse;
+  margin: 15px auto; /* Centered table */
+  border: 1px solid #ccc;
+  width: auto; 
+}
+
+.question-table th, .question-table td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  text-align: center;
+}
+
+.question-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.option-item {
+  margin: 10px 0;
+  padding: 8px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.option-item:hover {
+  background-color: #f9f9f9;
+}

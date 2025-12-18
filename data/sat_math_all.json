@@ -1,0 +1,3527 @@
+[
+  {
+    "id": "SAT_2023_OCT_M1_Q1",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Functions",
+    "subtopic": "Function Evaluation",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The function \\(v(t) = 40 + 3t\\) shows the speed of a car in miles per hour after \\(t\\) seconds. What is the speed of the car after 3 seconds?",
+    "answer": "49"
+  },
+
+  {
+    "id": "SAT_2023_OCT_M1_Q2",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Factoring Expressions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "Which of the following expressions is equivalent to \\(5x^2 + 4x\\)?",
+    "options": [
+      "A. \\(5x(x + 4)\\)",
+      "B. \\(x(5x + 4)\\)",
+      "C. \\(5(x + 4)\\)",
+      "D. \\(4x(x + 5)\\)"
+    ],
+    "answer": "B"
+  },
+
+  {
+    "id": "SAT_2023_OCT_M1_Q3",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations (No Solution)",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "For what value of \\(r\\) does the equation \\(-3 + 6rx = 42\\) have no solution?",
+    "answer": "0"
+  },
+
+{
+  "id": "SAT_2023_OCT_M1_Q4",
+  "paper": {
+    "year": 2023,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 4
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Polynomial Operations",
+  "difficulty": 2,
+  "type": "MCQ",
+  "text": "\\((x^3 + 2x^2 - 3) + (8x^2 + 9x)\\) is equivalent to which expression?",
+  "options": [
+    "A. \\(x^3 + 6x^2 - 9x - 3\\)",
+    "B. \\(x^3 + 10x^2 + 9x - 3\\)",
+    "C. \\(x^3 - 6x^2 - 9x - 3\\)",
+    "D. \\(x^3 + 3x^2 + 9x - 3\\)"
+  ],
+  "answer": "B"
+},
+
+{
+  "id": "SAT_2023_OCT_M1_Q5",
+  "paper": {
+    "year": 2023,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 5
+  },
+  "section": "Math",
+  "topic": "Functions",
+  "subtopic": "Function Evaluation",
+  "difficulty": 1,
+  "type": "FillIn",
+  "text": "The function \\(f(x) = x^2 + 16\\) is defined for all real numbers \\(x\\). What is the value of \\(f(5)\\)?",
+  "answer": "41"
+},
+
+{
+  "id": "SAT_2023_OCT_M1_Q6",
+  "paper": {
+    "year": 2023,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 6
+  },
+  "section": "Math",
+  "topic": "Functions",
+  "subtopic": "Solving Equations with Function Notation",
+  "difficulty": 1,
+  "type": "FillIn",
+  "text": "The function \\(f(x) = 6x\\) is defined for all real numbers \\(x\\). For what value of \\(x\\) does \\(f(x) = 180\\)?",
+  "answer": "30"
+},
+
+{
+  "id": "SAT_2023_OCT_M1_Q7",
+  "paper": {
+    "year": 2023,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 7
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Percent Growth",
+  "difficulty": 2,
+  "type": "FillIn",
+  "text": "In 2022, there were \\(A\\) people in the town. The following year, the population increased by 8% and became \\(B\\). How many times is \\(B\\) greater than \\(A\\)?",
+  "answer": "1.08"
+},
+
+{
+  "id": "SAT_2023_OCT_M1_Q8",
+  "paper": {
+    "year": 2023,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 8
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Systems of Linear Inequalities",
+  "difficulty": 2,
+  "type": "MCQ",
+  "text": "If \\(x < 30\\) and \\(y < x\\), which of the following tables give the possible values of \\(x\\) and \\(y\\)?",
+  "options": [
+    {
+          "label": "A",
+          "table_data": [
+               {"x": 29, "y": 30},
+               {"x": 28, "y": 29},
+               {"x": 27, "y": 28}
+           ]
+    },
+    
+    {
+          "label": "B",
+          "table_data": [
+               {"x": 29, "y": 28},
+               {"x": 28, "y": 27},
+               {"x": 27, "y": 26}
+           ]
+    },
+
+    {
+          "label": "C",
+          "table_data": [
+               {"x": 31, "y": 32},
+               {"x": 32, "y": 33},
+               {"x": 33, "y": 34}
+           ]
+    },
+
+    {
+          "label": "D",
+          "table_data": [
+               {"x": 31, "y": 30},
+               {"x": 32, "y": 31},
+               {"x": 33, "y": 32}
+           ]
+    }
+  ],
+  "answer": "B"
+},
+
+{
+  "id": "SAT_2023_OCT_M1_Q9",
+  "paper": {
+    "year": 2023,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 9
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Ratio and Proportions",
+  "difficulty": 2,
+  "type": "MCQ",
+  "text": "Ratio of \\(x\\) to \\(y\\) is equal to 5 to 8. If \\(x = 11t\\), what is the value of \\(y\\) in terms of \\(t\\)?",
+  "options": [
+    "A. \\(y = \\frac{5}{88}t\\)",
+    "B. \\(y = \\frac{55}{8}t\\)",
+    "C. \\(y = \\frac{8}{55}t\\)",
+    "D. \\(y = \\frac{88}{5}t\\)"
+  ],
+  "answer": "D"
+},
+
+{
+  "id": "SAT_2023_OCT_M1_Q10",
+  "paper": {
+    "year": 2023,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 10
+  },
+  "section": "Math",
+  "topic": "Statistics and Probability",
+  "subtopic": "Basic Probability",
+  "difficulty": 1,
+  "type": "FillIn",
+  "text": "There are 10 red buttons and 40 blue buttons. If one of these buttons is selected randomly, what is the probability of getting a red one? (Answer as a decimal or fraction.)",
+  "answer": "0.2"
+},
+
+{
+    "id": "SAT_2023_OCT_M1_Q11",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "From \\(x=0\\) to \\(x=1\\), which of the following correctly describes the corresponding change in \\(y\\)?",
+    "options": [
+      "A. It increases by 1.5 times.",
+      "B. It increases by 2.0 times.",
+      "C. It increases by 2.5 times.",
+      "D. It increases by 3.0 times."
+    ],
+    "image": "data/Images/SAT_2023_OCT_M1_Q11_Image.png",
+    "answer": "B"
+  },
+
+{
+  "id": "SAT_2023_OCT_M1_Q12",
+  "paper": {
+    "year": 2023,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 12
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Linear Equations (Expression Evaluation)",
+  "difficulty": 1,
+  "type": "FillIn",
+  "text": "If \\(5x + 6 = 10\\), what is the value of \\(5x - 6\\)?",
+  "answer": "-2"
+},
+
+{
+    "id": "SAT_2023_OCT_M1_Q13",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations (Interpretation)",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "In a circuit, the total resistance is equal to the sum of the resistance of all the resistors, measured in ohms. For this particular circuit, there are two types of resistors, X and Y. The equation \\(R=13x+17\\) represents the total resistance. What is the best interpretation of the value 13 in this equation?",
+    "options": [
+      "A. The resistance value of each X resistor in ohms.",
+      "B. The resistance value of each resistor in ohms.",
+      "C. The coefficient that determines the relationship between the total resistance and the X resistors.",
+      "D. The sum of the resistance values of all the X and Y resistors in the circuit."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2023_OCT_M1_Q14",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Circles",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The equation of circle A is \\((x-5)^{2}+(y+5)^{2}=25\\). If the equation of circle B is \\((x-5)^{2}+(y+5)^{2}=k\\), and the radius of circle B is twice that of circle A, what is the value of \\(k\\)?",
+    "answer": "100"
+  },
+  {
+    "id": "SAT_2023_OCT_M1_Q15",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "What is the \\(x\\)-coordinate of an \\(x\\)-intercept of the following function \\(f(x)=3(x-14)(x+5)(x+8)\\)?",
+    "answers": "14"
+  },
+  {
+    "id": "SAT_2023_OCT_M1_Q16",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Problem Solving and Data Analysis",
+    "subtopic": "Rates, Ratios, and Proportions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A rocket contained 400,000 kilograms of propellant before launch. Exactly 18 seconds after launch, 309,946 kilograms of this propellant remained. On average, approximately how much propellant, in kg, did the rocket burn each second after launch?",
+    "answer": "5003"
+  },
+
+{
+    "id": "SAT_2023_OCT_M1_Q17",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Similar Triangles",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "If \\(ABC\\) is similar to \\(DEF\\) and \\(DEF\\) is dilated by a factor of 2 with respect to \\(ABC\\), what is the value of angle \\(D\\)?",
+    "image": "data/Images/SAT_2023_OCT_M1_Q17_Image.png",
+    "answers": "50"
+},
+
+  {
+    "id": "SAT_2023_OCT_M1_Q18",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Linear Functions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "The function \\(g\\) is defined by \\(g(x)=\\frac{1}{m}x+14\\), where \\(11 \\le m \\le 14\\). If \\(y=g(x)-7\\), what is a possible value of the \\(x\\)-intercept of \\(y\\)?",
+    "answer": "-77"
+  },
+  {
+    "id": "SAT_2023_OCT_M1_Q19",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A line passes through the points \\((1,7)\\) and \\((7,-14)\\). What is the \\(x\\)-intercept of the equation of the line?",
+    "answer": "3"
+  },
+  {
+    "id": "SAT_2023_OCT_M1_Q20",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "Consider the equation \\(y=x^{2}+bx+25\\). For the function above, \\(b\\) is a positive integer. If the equation has more than one solution, what is the minimum value of \\(b\\)?",
+    "answer": "11"
+  },
+  {
+    "id": "SAT_2023_OCT_M1_Q21",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Right Triangles and Trigonometry",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "In triangle \\(ABC\\), angle \\(B\\) is a right angle. If \\(AC=35\\) and \\(AB=34\\), what is the value of \\(\\cos A\\)?",
+    "answer": "34/35"
+  },
+  {
+    "id": "SAT_2023_OCT_M1_Q22",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions (Interpretation)",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The function \\(f(x)=0.25x^{2}-7.5x+78\\) models the stock price of a company \\(x\\) days after its release. What is the interpretation of \\(f(2)=64\\)?",
+    "options": [
+      "A. After two days the price of stock is increased by $64",
+      "B. After two days the price of stock is $64",
+      "C. Initial value of the stock is $64",
+      "D. After 64 days the price of stock is increased by $2"
+    ],
+    "answer": "B"
+},
+
+{
+    "id": "SAT_2023_OCT_M2_Q1",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Problem Solving and Data Analysis",
+    "subtopic": "One-Variable Data",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "Data Set A: 7, 14, 14, 5, 17, 13. What is the range for data set A shown above?",
+    "answer": "12"
+  },
+
+{
+    "id": "SAT_2023_OCT_M2_Q2",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "What is one possible value of \\(x\\) if \\((x+25)^{2}(x-49)^{2}=0\\)?",
+    "answer": "49"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q3",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "Consider the system of equations \\(y=1.5\\) and \\(y=x^{2}+3x+c\\). If the system of equations has exactly one solution, what is the value of \\(c\\)?",
+    "answer": "3.75"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q4",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations (Isolating Quantities)",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The equation \\(p=\\frac{t}{k+5}\\) relates the constants \\(p\\), \\(t\\), and \\(k\\). Which of the following correctly expresses \\(k\\) in terms of \\(p\\) and \\(t\\)?",
+    "options": [
+      "A. \\(k=\\frac{t}{p}-5\\)",
+      "B. \\(k=\\frac{t}{p}+5\\)",
+      "C. \\(k=\\frac{p}{t}-5\\)",
+      "D. \\(k=\\frac{p}{t}+5\\)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q5",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "An airplane descends from 5400 feet to 3600 feet at a constant rate. What is the relationship between time and the altitude of the airplane?",
+    "options": [
+      "A. Increasing linear",
+      "B. Decreasing linear",
+      "C. Exponential growth",
+      "D. Exponential decay"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q6",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Systems of Linear Equations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "Consider the system of equations:\\(\\newline\\) \\(y=4x\\) \\(\\newline\\) \\(5x-y=17\\) \\(\\newline\\) What is the \\(x\\)-coordinate of the intersection point for the system of equations above?",
+    "answer": "17"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q7",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions (Interpretation)",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The number of views \\(f(x)\\) that a content creator receives on a video is given by the function \\(f(x)=-200x^{2}+10,000x\\), where \\(x\\) is the length, in minutes, of the video. The graph of \\(y=f(x)\\) in the \\(xy\\)-plane intersects the \\(x\\)-axis at 0 and \\(a\\). What does \\(a\\) represent?",
+    "options": [
+      "A. The number of views when the length of the video is 0 minutes",
+      "B. The length, in minutes, of the video that will result in maximum views",
+      "C. The length, in minutes, of the video that will result in 0 views",
+      "D. The maximum views that the content creator can receive on the video"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q8",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Systems of Linear Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "In the system of equations below, \\(m\\) and \\(b\\) are constants. \\(\\newline\\) \\(2x+by=52\\) \\(\\newline\\) \\(mx+2by=76\\) \\(\\newline\\) If the lines defined by these two equations intersect at the point \\((2, y)\\), what is the value of \\(m\\)?",
+    "answer": "-10"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q9",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "The graph of the equation \\(y=x+\\frac{11}{5}\\) passes through the points \\((0, a)\\) and \\((b, 0)\\). What is the value of \\(b\\)?",
+    "answer": "-2.2"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q10",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "What is the \\(y\\)-coordinate of the \\(y\\)-intercept of the equation \\(y=-10^{x+1}-35\\)?",
+    "answer": "-45"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q11",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Circles",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "What is the diameter of the circle defined by the equation \\(x^{2}+4x+y^{2}-28y=25\\)?",
+    "answer": "30"
+  },
+
+  {
+    "id": "SAT_2023_OCT_M2_Q12",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 5,
+    "type": "FillIn",
+    "text": "Find the slope of a line that passes through the points \\((\\frac{k}{98}, -\\frac{k}{6}+\\frac{3}{49})\\) and \\((\\frac{k}{49}, \\frac{k}{3}+\\frac{3}{49})\\).",
+    "answer": "49"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q13",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Area and Volume",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "Cylinder A, which has a radius of 8, is similar to Cylinder B. The volume of Cylinder A is \\(320\\pi\\) and the volume of Cylinder B is \\(20,480\\pi\\). The surface area of Cylinder B is equal to \\(n\\pi\\). What is the value of \\(n\\)?",
+    "answer": "3328"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q14",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Equivalent Expressions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "Which of the following equations is equivalent to \\(y=64^{2x+2}\\) and displays the \\(y\\)-coordinate of the \\(y\\)-intercept as a constant or coefficient?",
+    "options": [
+      "A. \\(y=64^{2x+2}\\)",
+      "B. \\(y=8^{4x+4}\\)",
+      "C. \\(y=4096^{x+1}\\)",
+      "D. \\(y=262144^{2x}\\)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q15",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "A function \\(g\\) is defined by \\(g(x)=\\frac{f(x)}{x+4}\\). The table above shows selected values for \\(g(x)\\).  If \\(f(x)\\) is a linear function, what is the \\(y\\)-coordinate of the \\(y\\)-intercept of \\(f\\)?",
+    "table_data": [
+        {"x": -12, "g(x)": 3},
+        {"x": -6, "g(x)": 0},
+        {"x": 4, "g(x)": 5}
+    ],
+    "answer": "24"
+  },
+
+  {
+    "id": "SAT_2023_OCT_M2_Q16",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Problem Solving and Data Analysis",
+    "subtopic": "Rates, Ratios, and Proportions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "If the population of town A is 497% of town B and 0.071% of town C, and the population of town C is \\(p\\)% of town B, what is the value of \\(\\frac{p}{1000}\\)?",
+    "answer": "700"
+  },
+
+  {
+    "id": "SAT_2023_OCT_M2_Q17",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "What is the new \\(y\\)-intercept of the function \\(f(x)=5x^{3}\\) if the graph is moved 3 units to the right and 2 units down?",
+    "answer": "-137"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q18",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Functions (Interpretation)",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The function \\(f(t)=9,000(0.70)^{t}\\) models the number of coupons a company sent to their customers at the end of each year, where \\(t\\) represents the number of years since the end of 2000, and \\(0 \\le t \\le 6\\). Which of the following is the best interpretation of the \\(y\\)-intercept of the graph in this context?",
+    "options": [
+      "A. The minimum estimated number of coupons the company sent to their customers during the 6 years was 1,530.",
+      "B. The minimum estimated number of coupons the company sent to their customers during the 6 years was 9,000.",
+      "C. The estimated number of coupons the company sent to their customers at the end of 2000 was 1,530.",
+      "D. The estimated number of coupons the company sent to their customers at the end of 2000 was 9,000."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q19",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Triangles",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "An equilateral triangle has a perimeter of 900 meters. If the height of the triangle is equal to \\(x\\sqrt{3}\\), what is the value of \\(x\\)?",
+    "answer": "150"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q20",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Problem Solving and Data Analysis",
+    "subtopic": "Area and Volume",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "A rectangular area consists of 384 equal squares where each square has an area of \\(r\\). If the width of the rectangular area is 1.5 times the length and the length is equal to \\(x\\sqrt{r}\\), what is the value of \\(x\\)?",
+    "answer": "16"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q21",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Absolute Value Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Consider the equation \\(9|x-2|=r\\). What is the value of \\(r/9\\) if the equation shown above has only one solution?",
+    "options": [
+      "A. -3 only",
+      "B. 3 or -3",
+      "C. 3 only",
+      "D. 0"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2023_OCT_M2_Q22",
+    "paper": {
+      "year": 2023,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 5,
+    "type": "FillIn",
+    "text": "Given that the function \\(f(x)=a^{x}-b\\) passes through the points \\((c, 8)\\) and \\((2c, 280)\\), where \\(c\\) and \\(a\\) are positive constants, and \\(b\\) is an unknown constant, what is the value of \\(b\\)?",
+    "answer": "9"
+  },
+
+{
+    "id": "SAT_2025_DEC_M1_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Functions",
+    "subtopic": "Function Evaluation",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by the equation \\(f(x) = 5x - 6\\). What is the value of \\(f(x)\\) when \\(x = 10\\)?",
+    "answer": "44"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "On a certain day in June, the lowest recorded wind speed in a town was 5 miles per hour (mph) and the highest recorded wind speed was 14 mph. Which inequality is true for all values of \\(w\\), where \\(w\\) represents any wind speed, in mph, recorded in the town on this day?",
+    "options": [
+      "A. \\(w \\le 5\\)",
+      "B. \\(w \\le 9\\)",
+      "C. \\(w \\ge 14\\)",
+      "D. \\(5 \\le w \\le 14\\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "What value of \\(p\\) is the solution to the equation \\(4p - 5p = 14\\)?",
+    "options": [
+      "A. -14",
+      "B. \\(-\\frac{1}{14}\\)",
+      "C. \\(\\frac{1}{14}\\)",
+      "D. 14"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Polygons and Perimeter",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "A polygon with 22 sides has a perimeter of 131 inches. The length of one side is 5 inches. The other 21 sides have equal lengths. What is the length, in inches, of one of the 21 sides with equal lengths?",
+    "answer": "6"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "To purchase a used car at a total price of 13,000 dollars, a onetime down payment is required, and then fixed monthly payments are made for the remaining amount owed for the car. The equation \\(13,000 = 2,600 + 260t\\) represents this situation, where \\(t\\) is the number of fixed monthly payments that are made. Which of the following is the best interpretation of 260 in this context?",
+    "options": [
+      "A. The amount, in dollars, of the down payment",
+      "B. The amount, in dollars, of each fixed monthly payment",
+      "C. The total amount, in dollars, paid for the car after fixed monthly payments",
+      "D. The total number of fixed monthly payments"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Expressions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "If \\(3 - 2x = 42\\), what is the value of \\(\\frac{1}{6}(3 - 2x)\\)?",
+    "options": [
+      "A. 6",
+      "B. 7",
+      "C. 42",
+      "D. 252"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Ratios and Proportions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The ratio 72 to \\(m\\) is equivalent to the ratio 4 to 24. What is the value of \\(m\\)?",
+    "options": [
+      "A. 3",
+      "B. 24",
+      "C. 144",
+      "D. 432"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "What are all possible solutions to the given equation \\((z + 4)(z - 6) = 0\\)?",
+    "options": [
+      "A. -4 and -6",
+      "B. -4 and 6",
+      "C. 4 and -6",
+      "D. 4 and 6"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Systems of Equations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\(\\newline\\) \\(7x - 8y = x^2\\) \\(\\newline\\) \\(7x - 8y = 36\\) \\(\\newline\\) A solution to the given system of equations is \\((x, y)\\), where \\(x\\) is positive. What is the value of \\(x\\)?",
+    "answer": "6"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The table shows four values of \\(x\\) and their corresponding values of \\(y\\). There is a linear relationship between \\(x\\) and \\(y\\). Which of the following equations represents this relationship?",
+    "options": [
+      "A. \\(9x + 3y = 90\\)",
+      "B. \\(9x + 3y = 3\\)",
+      "C. \\(3x + 9y = 90\\)",
+      "D. \\(3x + 9y = 3\\)"
+    ],
+    "table_data": [
+        {"x": -6, "y": 48},
+        {"x": -3, "y": 39},
+        {"x": 3, "y": 21},
+        {"x": 6, "y": 12}
+    ],
+    "answer": "A"
+  },
+
+{
+    "id": "SAT_2025_DEC_M1_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "For a rational function \\(f\\), the table shows three values of \\(x\\) and their corresponding values of \\(f(x)\\).  Which of the following could be the graph of \\(y=f(x)\\)?",
+    "options": [
+    { "label": "A", "image": "data/Images/SAT_2025_DEC_M1_Q11_ImageA.png" },
+    { "label": "B", "image": "data/Images/SAT_2025_DEC_M1_Q11_ImageB.png" },
+    { "label": "C", "image": "data/Images/SAT_2025_DEC_M1_Q11_ImageC.png" },
+    { "label": "D", "image": "data/Images/SAT_2025_DEC_M1_Q11_ImageD.png" }
+    ],
+    "table_data": [
+        {"\\(x\\)": -4, "\\(f(x)\\)": "-\\(\\frac{1}{6}\\)"},
+        {"\\(x\\)": 0, "\\(f(x)\\)": "-\\(-\\frac{1}{6}\\)"},
+        {"\\(x\\)": 8, "\\(f(x)\\)": "\\(\\frac{1}{6}\\)"}
+    ],
+    "answer": "D"
+  },
+
+  {
+    "id": "SAT_2025_DEC_M1_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Percentages",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "A real estate company offers a series of three webinars. 3,125 people attended the first webinar. 56% of the people who attended the first webinar attended the second webinar, and 26% of the people who attended the first and second webinars attended the third webinar. How many people attended all three webinars?",
+    "answer": "455"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Problem Solving and Data Analysis",
+    "subtopic": "Scatterplots",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A data set of 9 points is shown in the scatterplot.  A line of best fit for the data is also shown.  For how many data points is the actual \\(y\\)-value greater than the \\(y\\)-value predicted by the line of best fit?",
+    "image": "data/Images/SAT_2025_DEC_M1_Q13_Image.png",
+    "answer": "5"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Triangles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "In the right triangle shown above, what is the value of tan\\(x\\)?",
+    "options": [
+      "A. \\(\\frac{3}{5} \\)",
+      "B. \\(\\frac{3}{4} \\)",
+      "C. \\(\\frac{4}{5} \\)",
+      "D. \\(\\frac{4}{3}\\)"
+    ],
+    "image": "data/Images/SAT_2025_DEC_M1_Q14_Image.png",
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Polynomial Equivalence",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The expression \\(15x(x^2 + 9)\\) is equivalent to \\(ax^b + cx\\), where \\(a\\), \\(b\\), and \\(c\\) are constants. What is the value of \\(abc\\)?",
+    "answer": "6075"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Circles",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "In the xy-plane, an equation of circle R is \\((x + 8)^2 + (y + 19)^2 = 100\\). Circle S is obtained by shifting circle R to the right 3 units. An equation defining circle S is \\((x + h)^2 + (y + k)^2 = 100\\), where \\(h\\) and \\(k\\) are constants. What is the value of \\(h\\)?",
+    "answer": "5"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "On January 1, there were 237 views of a video posted on a social media site. Every 2 days after January 1, the number of views of the video had increased by 70% of the number of views 2 days earlier. The function \\(f\\) gives the predicted number of views \\(x\\) days after January 1. Which equation defines \\(f\\)?",
+    "options": [
+      "A. \\(f(x) = 237(0.70)^{\\frac{x}{2}}\\)",
+      "B. \\(f(x) = 237(0.70)^{2x}\\)",
+      "C. \\(f(x) = 237(1.70)^{\\frac{x}{2}}\\)",
+      "D. \\(f(x) = 237(1.70)^{2x}\\)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Triangles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "In the figure shown above, triangle \\(TUV\\) is a right triangle.  The measure of angle \\(V\\) is \\(26°\\) and angle \\(U\\) is a right angle.  The length of \\(VU\\) is 68.  Triangle \\(TUV\\) is dilated by a scale factor of \\(\\frac{1}{2}\\) to obtain triangle \\(T'U'V'\\) (not shown), where \\(T\\) corresponds to \\(T'\\) and \\(U\\) corresponds to \\(U'\\).  What is the measure, in degrees, of angle \\(V'\\)?",
+    "options": [
+      "A. 13",
+      "B. 26",
+      "C. 27",
+      "D. 54"
+    ],
+    "image": "data/Images/SAT_2025_DEC_M1_Q18_Image.png",
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Functions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by the equation \\(f(x) = 4x^2 - 16x + 22\\). The function \\(h\\) is defined by \\(h(x) = f(x) + 9\\). What is the minimum value of \\(h(x)\\)?",
+    "answer": "15"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Systems of Linear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\newline \\) \\(7(5x) + 9(8y) = 189\\) \\(\\newline \\) \\(7(5x) - 9(8y) = -819\\) \\(\\newline \\) The solution to the given system of equations is \\((x, y)\\).  What is the value of \\(5x + 8y\\)?",
+    "options": [
+      "A. -101",
+      "B. 101",
+      "C. 11",
+      "D. 56"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Remainder Theorem",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "For the polynomial function \\(f\\), when \\(f(x)\\) is divided by \\(x - 8\\), the remainder is 9. Which of the following must be true about the graph of \\(y = f(x)\\) in the xy-plane?",
+    "options": [
+      "A. It passes through the point (9, -8)",
+      "B. It passes through the point (-8, 9)",
+      "C. It passes through the point (9, 8)",
+      "D. It passes through the point (8, 9)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DEC_M1_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Triangles",
+    "difficulty": 5,
+    "type": "MCQ",
+    "text": "The line segment shown in the \\(xy\\)-plane represents side \\(JK\\) of isosceles triangle \\(JKL\\), where side \\(JL\\) is congruent to side \\(KL\\).  The perimeter of this triangle is \\(13\\sqrt{17}\\) units.  What is the length, in units, of side \\(JL\\) of this triangle?",
+    "options": [
+      "A. \\(\\sqrt{17}\\)",
+      "B. \\(3\\sqrt{17}\\)",
+      "C. \\(5\\sqrt{17}\\)",
+      "D. \\(7\\sqrt{17}\\)"
+    ],
+    "image": "data/Images/SAT_2025_DEC_M1_Q22_Image.png",
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Triangles",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "In triangle JKL, the measures of \\(\\angle K\\) and \\(\\angle L\\) are each 51 degrees. What is the measure of \\(\\angle J\\), in degrees?",
+    "answer": "78"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The table shows three values of \\(x\\) and their corresponding values of \\(y\\) for the equation \\(y=7(2)^x+8\\).  In the table, \\(a\\) is a constant.  What is the value of \\(a\\)?",
+    "options": [
+      "A. 120",
+      "B. 64",
+      "C. 56",
+      "D. 50"
+    ],
+    "table_data": [
+        {"\\(x\\)": 1, "\\(y\\)": 22},
+        {"\\(x\\)": 2, "\\(y\\)": 36},
+        {"\\(x\\)": 3, "\\(y\\)": "\\(a\\)"}
+    ],
+    "answer": "B"
+  },
+   {
+    "id": "SAT_2025_DEC_M2_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The figure shows the \\(xy\\)-plane with the quadrants labelled.  The graph of a linear function \\(h\\) (not shown), where \\(y=h(x)\\), is a line completely contained in only quadrants I and II of the \\(xy\\)-plane.  Which of the following could define the function \\(h\\)?",
+    "options": [
+      "A. \\(h(x)=16x+16 \\)",
+      "B. \\(h(x)=16x \\)",
+      "C. \\(h(x)=16 \\)",
+      "D. \\(h(x)=-16\\)"
+    ],
+    "image": "data/Images/SAT_2025_DEC_M2_Q3_Image.png",
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Statistics and Margin of Error",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A researcher is designing a study to investigate the average number of hours students at a high school spend reading per day. The researcher will report an estimated average number of hours students at the high school spend reading per day with an associated margin of error. The researcher is considering using a random sample of either 90 or 180 students from the high school. Which of the following would be the most likely effect of using the larger random sample compared to the smaller random sample?",
+    "options": [
+      "A. The reported margin of error would be lower",
+      "B. The reported margin of error would be higher",
+      "C. The reported average number of hours would be lower",
+      "D. The reported average number of hours would be higher"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "What is the greatest solution to the given equation \\(4x^2 + x - 7 = 0\\)?",
+    "options": [
+      "A. \\(\\frac{-1 - \\sqrt{113}}{8}\\)",
+      "B. \\(\\frac{-1 + \\sqrt{113}}{8}\\)",
+      "C. \\(\\frac{1 - \\sqrt{113}}{8}\\)",
+      "D. \\(\\frac{1 + \\sqrt{113}}{8}\\)"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Systems of Linear Equations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\( \\newline 8x - 7y = 5  \\newline 4x + y = 8 \\newline \\) The solution to the given system of equations is \\((x,y)\\) What is the value of \\(x + y\\)?",
+    "answer": "35/12"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\newline H = 2.419L + 22.83 \\newline \\) A group of biology students conducted an experiment to study the relationship between a person's femur length and the person's height. The given equation describes the relationship between the length \\(L\\), in inches, of a student's femur and the student's estimated height \\(H\\), in inches, for the students in the group. Which of the following is the best interpretation of 2.419 in this context?",
+    "options": [
+      "A. The increase in a student's estimated height, in inches, for each increase of 1 inch in the student's femur length",
+      "B. The increase in a student's femur length, in inches, for each increase of 1 inch in the student's estimated height",
+      "C. The increase in a student's femur length, in inches, for each increase of 22.83 inches in the student's estimated height",
+      "D. The estimated height, in inches, of a student whose femur length is 0 inches"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations (Mixtures)",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\( \\newline 0.10x + 0.20y = 0.17(x + y) \\newline \\) The equation gives a volume \\(x\\), in gallons, of a 10% saltwater solution that could be mixed with a volume \\(y\\), in gallons, of a 20% saltwater solution to produce a 17% saltwater solution. According to this equation, what volume, in gallons, of the 20% saltwater solution could be mixed with 75.0 gallons of the 10% saltwater solution to produce a 17% saltwater solution?",
+    "answer": "175"
+  },
+  {
+  "id": "SAT_2025_DEC_M2_Q11",
+  "paper": {
+    "year": 2025,
+    "month": "December",
+    "module": 2,
+    "questionNumber": 11
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Linear Inequalities",
+  "difficulty": 2,
+  "type": "MCQ",
+  "text": "\\( \\newline y<15x+13 \\newline \\) For which of the following tables are all the values of \\(x\\) and their corresponding values of \\(y\\) solutions to the given inequality?",
+  "options": [
+    {
+          "label": "A",
+          "table_data": [
+               {"\\(x\\)": 2, "\\(y\\)": 26},
+               {"\\(x\\)": 4, "\\(y\\)": 90},
+               {"\\(x\\)": 6, "\\(y\\)": 86}
+           ]
+    },
+    
+    {
+          "label": "B",
+          "table_data": [
+               {"\\(x\\)": 2, "\\(y\\)": 26},
+               {"\\(x\\)": 4, "\\(y\\)": 56},
+               {"\\(x\\)": 6, "\\(y\\)": 86}
+           ]
+    },
+
+    {
+          "label": "C",
+          "table_data": [
+               {"\\(x\\)": 2, "\\(y\\)": 43},
+               {"\\(x\\)": 4, "\\(y\\)": 73},
+               {"\\(x\\)": 6, "\\(y\\)": 103}
+           ]
+    },
+
+    {
+          "label": "D",
+          "table_data": [
+               {"\\(x\\)": 2, "\\(y\\)": 64},
+               {"\\(x\\)": 4, "\\(y\\)": 90},
+               {"\\(x\\)": 6, "\\(y\\)": 114}
+           ]
+    }
+  ],
+  "answer": "B"
+},
+  {
+    "id": "SAT_2025_DEC_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Lines in the XY-plane",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "In the xy-plane, line \\(h\\) passes through the point \\((0, 0)\\) and is perpendicular to the line represented by the equation \\(-3x + y = 20\\). If line \\(h\\) also passes through the point \\((18, t)\\), what is the value of \\(t\\)?",
+    "options": [
+      "A. -54",
+      "B. -6",
+      "C. 6",
+      "D. 54"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Systems of Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which system of linear equations has no solution?",
+    "options": [
+      "A. \\( \\newline -3x + 9y = -2 \\newline 3x - 9y = 2\\)",
+      "B. \\( \\newline 3x - 9y = 2 \\newline 4x + 10y = 3\\)",
+      "C. \\( \\newline 3x - 9y = 2 \\newline -9x + 27y = -6\\)",
+      "D. \\( \\newline -3x + 9y = 2 \\newline 6x - 18y = 4\\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The function \\(f(x) = 6,000(1.003)^{2x}\\) models the balance of a bank account, in dollars, \\(x\\) years after it is opened. Which statement is the best interpretation of \\((1.003)^{2x}\\)?",
+    "options": [
+      "A. Every 6 months, the balance increases by about $3",
+      "B. Every 2 years, the balance increases by about $3",
+      "C. At the end of every 6-month interval, the balance increases by about 0.3% of the balance at the beginning of the 6-month interval",
+      "D. At the end of every 2-year interval, the balance increases by about 0.3% of the balance at the beginning of the 2-year interval"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Polynomial Factors",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Which of the following is a factor of the expression \\(2x^2 + (18r + 5)x + 45r\\), where \\(r\\) is a nonzero constant?  \\( \\newline \\) I. \\(x + 9r\\) \\( \\newline \\)II. \\(2x + 5r\\)",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. I and II",
+      "D. Neither I nor II"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Absolute Value Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The equation \\(5|x - 8| = k\\), where \\(k\\) is a constant, has exactly one solution. Which of the following could be the value of \\(\\frac{k}{5}\\)?",
+    "options": [
+      "A. -8 or 8",
+      "B. -8 only",
+      "C. 0 only",
+      "D. 8 only"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Percentages and Ratios",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "A scientist studied the effects of mixing two chemicals, chemical A and chemical B, by gradually adding more of each chemical to a mixture of the two chemicals. At the start of the study, the mass of chemical A in the mixture was equal to the mass of chemical B in the mixture. From the start of the study to the end of the study, the mass of chemical A in the mixture increased by 2,600% and the mass of chemical B in the mixture increased by 380%. At the end of the study, approximately how many times greater was the mass of chemical A in the mixture than the mass of chemical B in the mixture?",
+    "options": [
+      "A. 29.80",
+      "B. 22.20",
+      "C. 6.84",
+      "D. 5.63"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Discriminant",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\newline r^2 + qr = 8r - 87 \\newline \\) In the given equation, \\(q\\) is an integer constant. The given equation has no real solutions. What is the largest possible value of \\(q\\)?",
+    "answer": "26"
+  },
+  {
+    "id": "SAT_2025_DEC_M2_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "December",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Right Triangles",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "An isosceles right triangle has a perimeter of \\(34 + 34\\sqrt{2}\\) inches. What is the length, in inches, of one leg of this triangle?",
+    "options": [
+      "A. 17",
+      "B. \\(17\\sqrt{2}\\)",
+      "C. 34",
+      "D. \\(34\\sqrt{2}\\)"
+    ],
+    "answer": "B"
+    },
+    {
+    "id": "SAT_2025_DECV2_M1_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Functions",
+    "subtopic": "Function Evaluation",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by \\(f(x) = \\frac{3}{11}x\\). What is the value of \\(f(x)\\) when \\(x = 44\\)?",
+    "answer": "12"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "On a certain day in June, the lowest recorded wind speed in a town was 9 miles per hour (mph) and the highest recorded wind speed was 20 mph. Which inequality is true for all values of \\(w\\), where \\(w\\) represents any wind speed, in mph, recorded in the town on this day?",
+    "options": [
+      "A. \\(w \\le 9\\)",
+      "B. \\(w \\le 11\\)",
+      "C. \\(w \\ge 20\\)",
+      "D. \\(9 \\le w \\le 20\\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Area of Triangles",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "A triangle has a base length of 80 centimeters and a height of 40 centimeters. What is the area, in square centimeters, of the triangle?",
+    "answer": "1600"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Systems of Nonlinear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "\\( \\newline y = 45 \\newline y = 5x^2 \\newline \\)The graphs of the equations in the given system intersect at the point \\((x, y)\\) in the xy-plane. What is a possible value of \\(x\\)?",
+    "options": [
+      "A. -3",
+      "B. 3",
+      "C. 4",
+      "D. 45"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Problem Solving and Data Analysis",
+    "subtopic": "Scatterplots",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The scatterplot shows the relationship between two variables \\(x\\) and \\(y\\).  Which of the following equations is the most appropriate model for the data shown?",
+    "options": [
+      "A. \\(y=34(1.04)^{-x} \\)",
+      "B. \\(y=34(1.04)^x \\)",
+      "C. \\(y=94(1.04)^{-x} \\)",
+      "D. \\(y=94(1.04)^x \\)"
+    ],
+    "image": "data/Images/SAT_2025_DECV3_M1_Q5_Image.png",
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Linear Models",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "Hector receives a gift card worth $70.00 to pay for movies online. He uses his gift card to buy 2 movies for $6.50 each. He will spend the rest of his gift card on renting movies for $1.50 each. How many movies can Hector rent?",
+    "answer": "38"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Triangles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "In \\(\\triangle JKL\\), the measures of both \\(\\angle J\\) and \\(\\angle K\\) are equal and the measure of \\(\\angle L\\) is 138 degrees. What is the measure of \\(\\angle J\\)?",
+    "options": [
+      "A. 90",
+      "B. 69",
+      "C. 42",
+      "D. 21"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Systems of Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\newline 50x + 49y = c \\newline 49x + 50y = c \\newline \\) In the given system of equations, \\(c\\) is a positive constant.  Which of the following could be the point where the graphs of the equations in this system intersect in the xy-plane?",
+    "options": [
+      "A. \\((10, -\\frac{10}{99})\\)",
+      "B. \\((10, 990)\\)",
+      "C. \\((c, c)\\)",
+      "D. \\((\\frac{c}{99}, \\frac{c}{99})\\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "For the linear function \\(f\\), the graph of \\(y = f(x)\\) in the xy-plane has a slope of 25 and passes through the point \\((0, 0)\\). Which equation defines \\(f\\)?",
+    "options": [
+      "A. \\(f(x) = -\\frac{1}{25}x\\)",
+      "B. \\(f(x) = -25x\\)",
+      "C. \\(f(x) = \\frac{1}{25}x\\)",
+      "D. \\(f(x) = 25x\\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Probability",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "At a convention center, there are a total of 375 visitors. Each visitor is located in either room A, room B, or room C. If one of these visitors is selected at random, the probability of selecting a visitor who is located in room A is 0.48, and the probability of selecting a visitor who is located in room B is 0.16. How many visitors are located in room C?",
+    "options": [
+      "A. 29",
+      "B. 30",
+      "C. 120",
+      "D. 135"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Data Analysis",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\newline 4, 4, 12, 25, 25 \\newline \\) What is the range of the data set shown?",
+    "options": [
+      "A. 12",
+      "B. 14",
+      "C. 21",
+      "D. 70"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The table shows three values of \\(x\\) and their corresponding values of \\(y\\) for the equation \\(y=6(2)^x+4\\).  In the table, \\(a\\) is a constant.  What is the value of \\(a\\)?",
+    "options": [
+      "A. 40",
+      "B. 48",
+      "C. 52",
+      "D. 100"
+    ],
+    "table_data": [
+        {"\\(x\\)": 1, "\\(y\\)": 16},
+        {"\\(x\\)": 2, "\\(y\\)": 28},
+        {"\\(x\\)": 3, "\\(y\\)": "\\(a\\)"}
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "If \\(7(x - 3)^2 = 252\\), what is the value of \\(x^2 - 6x\\)?",
+    "options": [
+      "A. 18",
+      "B. 27",
+      "C. 30",
+      "D. 45"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\newline x^2 - 5x + 2 = 0 \\newline \\) What is one of the solutions to the given equation?",
+    "options": [
+      "A. \\(\\frac{5 - \\sqrt{17}}{2}\\)",
+      "B. \\(\\frac{5 + \\sqrt{33}}{2}\\)",
+      "C. \\(\\frac{-5 - \\sqrt{17}}{2}\\)",
+      "D. \\(\\frac{-5 + \\sqrt{33}}{2}\\)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Circles",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "A circle in the xy-plane has its center at \\((-7, 2)\\), and the point \\((1, -2)\\) lies on the circle. Which equation represents this circle?",
+    "options": [
+      "A. \\((x + 7)^2 + (y - 2)^2 = 80\\)",
+      "B. \\((x + 7)^2 + (y - 2)^2 = 36\\)",
+      "C. \\((x - 7)^2 + (y + 2)^2 = 80\\)",
+      "D. \\((x - 7)^2 + (y + 2)^2 = 36\\)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "A dance studio charges an introductory fee for the first 3 lessons and then charges a fixed fee for each additional lesson.  One student took 4 lessons and was charged $60.  Another student took 16 lessons and was charged $300.  Which function \\(f\\) gives the total charge, in dollars, for any student who took \\(x\\) lessons, where \\(x>2\\)?",
+    "options": [
+      "A. \\(f(x)=15x\\)",
+      "B. \\(f(x)=15x+60\\)",
+      "C. \\(f(x)=20x\\)",
+      "D. \\(f(x)=20x-20\\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Percentages",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A car dealership has only sedans, SUVs, and minivans for sale.  On Monday, 30% of the vehicles for sale were sedans and 50% were SUVs.  If there were 57 sedans for sale at the dealership on Monday, how many minivans were for sale?",
+    "answer": "38"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "On January 1, there were 236 views of a video posted on a social media site.  Every 3 days after January 1, the number of views of the video had increased by 60% of the number of views 3 days earlier.  The function \\(f\\) gives the predicted number of views \\(x\\) days after January 1.  Which equation defines \\(f\\)?",
+    "options": [
+      "A. \\(f(x)=236(0.60)^{\\frac{x}{3}}\\)",
+      "B. \\(f(x)=236(0.60)^{3x}\\)",
+      "C. \\(f(x)=236(1.60)^{\\frac{x}{3}}\\)",
+      "D. \\(f(x)=236(1.60)^{3x}\\)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\newline 0.10x+0.20y=0.18(x+y) \\newline \\) The equation gives a volume \\(x\\), in gallons, of a 10% saltwater solution that could be mixed with a volume \\(y\\), in gallons, of a 20% saltwater solution to produce an 18% saltwater solution.  According to this equation, what volume, in gallons, of the 20% saltwater solution could be mixed with 45.0 gallons of the 10% saltwater solution to produce an 18% saltwater solution?  (Assume that the volume of the mixture is the sum of the volumes of the two solutions before they were mixed.)",
+    "answer": "180"
+  },
+  {
+    "id": "SAT_2025_DECV2_M1_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\newline f(x)=x+3 \\newline g(x)=7x^2-rx+63 \\newline \\)The function \\(f\\) and \\(g\\) are given.  In function \\(g\\), \\(r\\) is a constant.  If \\(f(x) \\cdot g(x)=7x^3+189 \\), what is the value of \\(r\\)?",
+    "answer": "21"
+  },
+  {
+  "id": "SAT_2025_DECV2_M1_Q21",
+  "paper": {
+    "year": 2025,
+    "month": "December V2",
+    "module": 1,
+    "questionNumber": 21
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Linear Inequalities",
+  "difficulty": 2,
+  "type": "MCQ",
+  "text": "\\( \\newline y<14x+12 \\newline \\) For which of the following tables are all the values of \\(x\\) and their corresponding values of \\(y\\) solutions to the given inequality?",
+  "options": [
+    {
+          "label": "A",
+          "table_data": [
+               {"\\(x\\)": 2, "\\(y\\)": 25},
+               {"\\(x\\)": 4, "\\(y\\)": 83},
+               {"\\(x\\)": 6, "\\(y\\)": 81}
+           ]
+    },
+    
+    {
+          "label": "B",
+          "table_data": [
+               {"\\(x\\)": 2, "\\(y\\)": 25},
+               {"\\(x\\)": 4, "\\(y\\)": 53},
+               {"\\(x\\)": 6, "\\(y\\)": 81}
+           ]
+    },
+
+    {
+          "label": "C",
+          "table_data": [
+               {"\\(x\\)": 2, "\\(y\\)": 40},
+               {"\\(x\\)": 4, "\\(y\\)": 68},
+               {"\\(x\\)": 6, "\\(y\\)": 96}
+           ]
+    },
+
+    {
+          "label": "D",
+          "table_data": [
+               {"\\(x\\)": 2, "\\(y\\)": 44},
+               {"\\(x\\)": 4, "\\(y\\)": 83},
+               {"\\(x\\)": 6, "\\(y\\)": 102}
+           ]
+    }
+  ],
+  "answer": "B"
+},
+  {
+    "id": "SAT_2025_DECV2_M1_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline \\frac{-22x-29+m}{2}=k(x+5) \\newline \\)  In the given equation, \\(k\\) and \\(m\\) are constants.  The equation has infinitely many solutions.  What is the value of \\(m\\)?",
+    "options": [
+      "A. 39",
+      "B. -11",
+      "C. -26",
+      "D. -81"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Statistics (Mean)",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "Two participants solved a puzzle cube during timed competitions. The lists give the times, to the nearest second, that participant A and participant B took to solve the cube at various competitions.  \\( \\newline\\) Participant A: 23, 23, 25, 27 \\(\\newline\\) Participant B: 23, 23, 25, 27, 38 \\(\\newline\\) Which statement correctly compares the mean solve times, to the nearest second, of participant A and participant B at these competitions?",
+    "options": [
+      "A. The mean solve time of participant A is greater than the mean solve time of participant B",
+      "B. The mean solve time of participant A is less than the mean solve time of participant B",
+      "C. The mean solve time of participant A is equal to the mean solve time of participant B",
+      "D. There is not enough information to compare the mean solve times of participant A and participant B"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Lines in the XY-plane",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "Line \\(j\\) is defined by \\(y = 4x + 9\\). Line \\(k\\) is parallel to line \\(j\\) in the xy-plane. What is the slope of line \\(k\\)?",
+    "answer": "4"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "For a linear function \\(f\\), the table shows three values of \\(x\\) and their corresponding values of \\(f(x)\\).  Which of the following could define \\(f\\)",
+    "options": [
+      "A. \\(f(x)=3x+2\\)",
+      "B. \\(f(x)=2x+3\\)",
+      "C. \\(f(x)=x+3\\)",
+      "D. \\(f(x)=2x\\)"
+    ],
+    "table_data": [
+        {"\\(x\\)": 0, "\\(y\\)": 3},
+        {"\\(x\\)": 1, "\\(y\\)": 5},
+        {"\\(x\\)": 2, "\\(y\\)": 7}
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Surface Area",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The height of a right circular cylinder is 36 inches, and the circumference of its base is 360 inches. Which expression represents the total surface area, in square inches, of the cylinder?",
+    "options": [
+      "A. \\((36)(360) + 2\\pi(\\frac{180}{\\pi})^2\\)",
+      "B. \\((36)(360) + \\pi(\\frac{180}{\\pi})^2\\)",
+      "C. \\(\\pi(\\frac{180}{\\pi})^2(36)\\)",
+      "D. \\((36)(360)\\)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A bookstore is giving away free books every day. The equation \\(f(x) = 162 - 9x\\) gives the number of free books, \\(f(x)\\), that remain to be given away after \\(x\\) days. Which of the following is the best interpretation of \\(f(18) = 0\\) in this context?",
+    "options": [
+      "A. The bookstore has 18 free books to give away.",
+      "B. The bookstore will give away 18 free books in 0 days.",
+      "C. It will take 18 days to give away all the free books.",
+      "D. It will take 162 days to give away 18 free books."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Systems of Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(\\newline 2x + 5y = 260 \\newline -2x + 3y = 260 \\newline \\)  The solution to the given system of equations is \\((x, y)\\).  What is the value of \\(8y\\)?",
+    "options": [
+      "A. 0",
+      "B. 65",
+      "C. 260",
+      "D. 520"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "If \\(\\frac{9x}{2} - 11 = \\frac{45}{2} - 11\\), what is the value of \\(9x\\)?",
+    "options": [
+      "A. 5",
+      "B. 10",
+      "C. 45",
+      "D. 64"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Volume of Cylinders",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A right circular cylinder has a volume of \\(35,152\\pi\\) cubic inches. The height of the cylinder is 2 times its radius. What is the radius, in inches, of the cylinder?",
+    "options": [
+      "A. 26",
+      "B. 52",
+      "C. 676",
+      "D. 1352"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\newline 2x^2 = k \\newline\\)In the given equation, \\(k\\) is a constant. The equation has no real solution. Which of the following could be the value of \\(k\\)?",
+    "options": [
+      "A. -92",
+      "B. 0",
+      "C. 46",
+      "D. 55"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Rational Expressions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(\\frac{7x(x-9) - 2(x-9)}{3x-27}\\) where \\(x > 9\\)?",
+    "options": [
+      "A. \\(\\frac{x-9}{3}\\)",
+      "B. \\(\\frac{7x-2}{3}\\)",
+      "C. \\(\\frac{7x^2x-18}{3x-27}\\)",
+      "D. \\(\\frac{7x^2-2x-81}{3x-27}\\)"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Percentages",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "0.1242 is 0.09% of the number \\(b\\). The number \\(b\\) is 25% of the number \\(c\\). What is the value of \\(c\\)?",
+    "answer": "552"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Functions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by the equation \\(f(x) = 20^x + b\\) where \\(b\\) is a constant. In the xy-plane, the graph of \\(y = f(x)\\) contains the points \\((0, 36)\\) and \\((2, p+19)\\), where \\(p\\) is a constant. What is the value of \\(p\\)?",
+    "answer": "416"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Problem Solving",
+    "subtopic": "Unit Conversion",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A figure has an area of 3,744 square inches. What is the area, in square feet, of the figure? (1 foot = 12 inches)",
+    "options": [
+      "A. 26",
+      "B. 61.2",
+      "C. 312",
+      "D. 734.3"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline f(x) = (x - a)(x - b) \\newline \\) The function \\(f\\) is defined by the given equation, where \\(a\\) and \\(b\\) are integer constants. If \\(f(39) > 0\\), \\(f(42) < 0\\), and \\(f(45) > 0\\), which of the following could be the value of \\(a + b\\)?",
+    "options": [
+      "A. 42",
+      "B. 44",
+      "C. 81",
+      "D. 88"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Factoring Quadratics",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "One of the factors of \\(8x^4 + 50x^2 + 63\\) is \\(ax^2 + b\\), where \\(a\\) and \\(b\\) are positive constants. Which of the following is a possible value of \\(ab\\)?",
+    "options": [
+      "A. 7",
+      "B. 14",
+      "C. 18",
+      "D. 36"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline N(t) = 1,000(\\frac{3}{2})^{\\frac{6t}{5}} \\newline \\) The function \\(N\\) gives the estimated number of bacteria in a growth medium \\(t\\) hours after a study began. According to the function, the number of bacteria is estimated to increase by 50% every \\(k\\) minutes. What is the value of \\(k\\)?",
+    "options": [
+      "A. 40",
+      "B. 50",
+      "C. 72",
+      "D. 90"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Absolute Value Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The equation \\(5|x - 6| = k\\), where \\(k\\) is a constant, has exactly one solution. Which of the following could be the value of \\(\\frac{k}{5}\\)?",
+    "options": [
+      "A. -6 or 6",
+      "B. -6 only",
+      "C. 0 only",
+      "D. 6 only"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Models",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The quadratic function \\(g\\) models the depth, in meters, below the surface of the water of a Weddell seal \\(t\\) minutes after the seal entered the water during a dive. The function estimates that the seal reached its maximum depth of 396.8 meters 8 minutes after it entered the water and then reached the surface of the water 16 minutes after it entered the water. Based on the function, what was the estimated depth, to the nearest meter, of the seal 11 minutes after it entered the water?",
+    "answer": "341"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Trigonometry",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In triangle XYZ, the measure of angle X is 90 degrees. Point W lies on segment YZ, and segment WX is perpendicular to segment YZ. The length of segment WY is 668, and the length of segment WX is 501. What is the value of \\(\\tan Z\\)?",
+    "options": [
+      "A. \\( \\frac{3}{5} \\)",
+      "B. \\( \\frac{3}{4} \\)",
+      "C. \\( \\frac{4}{5} \\)",
+      "D. \\( \\frac{4}{3} \\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Circles",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\newline x^2 + y^2 - 6x - 10y - 4n = 0 \\newline \\)  The given equation represents circle A in the \\(xy\\)-plane, where \\(n\\) is a constant. Point \\((5, 7)\\) lies on circle B, which has the same center but twice the diameter as circle A. What is the value of \\(n\\)?",
+    "answer": "-8"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Systems of Linear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline 39(x - n) = 39y + 39n \\newline \\)  One of the equations in a system of two linear equations is given, where \\(n\\) is a positive constant. The system has no solution. Which equation could be the second equation in this system?",
+    "options": [
+      "A. \\(4x - 4y = 8n\\)",
+      "B. \\(4x + 4y = 4n\\)",
+      "C. \\(4x + 4y = 8n\\)",
+      "D. \\(4x - 4y = 4n\\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV2_M2_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "December V2",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Similar Triangles",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "In triangle \\(ABC\\), the measure of angle \\(B\\) is 90 degrees and \\(BD\\) is an altitude of the triangle.  The length of \\(AB\\) is 13 and the length of \\(AC\\) is 19 greater than the length of \\(AB\\).  What is the value of \\( \\frac{BC}{BD}\\)?",
+    "options": [
+      "A. \\( \\frac{13}{32} \\)",
+      "B. \\( \\frac{13}{19} \\)",
+      "C. \\( \\frac{19}{13} \\)",
+      "D. \\( \\frac{32}{13} \\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_DECV3_M1_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The function \\(h\\) is defined by \\(h(x)=100x-40\\).  What is the value of \\(h(x)\\) when \\(x=5\\)?",
+    "options": [
+      "A. 540",
+      "B. 460",
+      "C. 145",
+      "D. 65"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV3_M1_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "A teacher is creating an assingment worth 42 points.  The assignment will consist of questions worth 1 point and questions worth 2 points.  Which equation represents this situation, where \\(x\\) represents the number of 1-point questions and \\(y\\) represents the number of 2-point questions?",
+    "options": [
+      "A. \\(3xy=42\\)",
+      "B. \\(3(x+y)=42\\)",
+      "C. \\(2x+y=42\\)",
+      "D. \\(x+2y=42\\)"
+    ],
+    "answer": "D"
+  },
+   {
+    "id": "SAT_2025_DECV3_M1_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Area of Triangles",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "A triangle has a base length of 60 centimeters and a height of 40 centimeters. What is the area, in square centimeters, of the triangle?",
+    "answer": "1200"
+  },
+  {
+    "id": "SAT_2025_DECV3_M1_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(x^3+2x^2+9x+18\\)?",
+    "options": [
+      "A. \\( (x+9)(x^2+2)\\)",
+      "B. \\( (x+2)(x^2+9)\\)",
+      "C. \\( (x+1)(x^2+18)\\)",
+      "D. \\( (x+18)(x^2+1)\\)"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV3_M1_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "Line \\(j\\) is shown in the \\(xy\\)-plane.  Line \\(k\\) (not shown) is parallel to line \\(j\\).  What is the slope of line \\(k\\)?",
+    "image": "data/Images/SAT_2025_DECV3_M1_Q5_Image.png",
+    "answer": "2"
+  },
+    {
+    "id": "SAT_2025_DECV3_M1_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "If \\(\\sqrt{x-3}=5\\), what is the value of \\(x-3\\)?",
+    "options": [
+      "A. 5",
+      "B. 22",
+      "C. 25",
+      "D. 50"
+    ],
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2025_DECV3_M1_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The graph of a system of an absolute value function and a linear function is shown.  What is the solution \\((x,y)\\) to this system of two equations?",
+    "options": [
+      "A. \\((0,7)\\)",
+      "B. \\((\\frac{3}{2},\\frac{11}{2})\\)",
+      "C. \\((-\\frac{3}{2},\\frac{11}{2})\\)",
+      "D. \\((-1,5)\\)"
+    ],
+    "image": "data/Images/SAT_2025_DECV3_M1_Q7_Image.png",
+    "answer": "C"
+  },
+   {
+    "id": "SAT_2025_DECV3_M1_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Data Analysis and Problem Solving",
+    "subtopic": "Mean",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The table shows the number of dogs walked by a dog walker each week for 3 weeks.  What is the mean number of dogs walked per week for these 3 weeks?",
+    "options": [
+      "A. 6",
+      "B. 18",
+      "C. 30",
+      "D. 54"
+    ],
+    "table_data": [
+        {"Week": 1, "Number of dogs walked": 6},
+        {"Week": 2, "Number of dogs walked": 18},
+        {"Week": 3, "Number of dogs walked": 30}
+    ],
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2025_DECV3_M1_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Ratio",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The ratio 54 to \\(m\\) is equivalent to the ratio 2 to 18.  What is the value of \\(m\\)?",
+    "options": [
+      "A. 3",
+      "B. 18",
+      "C. 162",
+      "D. 486"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_DECV3_M1_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "As part of a science experiment on evaporation, Ella measured the height of water in a glass over a period of time.  The function \\(f(x)=32-0.21x\\) gives the estimated height, in centimeters (cm), of the water in the glass \\(x\\) days after the start of the experiment.  Which of the following is the best interpretation of 32 in this context?",
+    "options": [
+      "A. The estimated height, in cm, of the water at the start of the experiment",
+      "B. The estimated height, in cm, of the water at the end of the experiment",
+      "C. The estimated change in the height, in cm, of the water each day",
+      "D. The estimated height number of days for all the water to evaporate"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV3_M1_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The table shows three values of \\(x\\) and their corresponding values of \\(y\\) for the equation \\(y=3(2)^x+4\\).  In the table, \\(a\\) is a constant.  What is the value of \\(a\\)?",
+    "options": [
+      "A. 22",
+      "B. 24",
+      "C. 28",
+      "D. 52"
+    ],
+    "table_data": [
+        {"\\(x\\)": 1, "\\(y\\)": 10},
+        {"\\(x\\)": 2, "\\(y\\)": 16},
+        {"\\(x\\)": 3, "\\(y\\)": "\\(a\\)"}
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_DECV3_M1_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The figure shows the \\(xy\\)-plane with the quadrants labelled.  The graph of a linear function \\(h\\) (not shown), where \\(y=h(x)\\), is a line completely contained in only quadrants III and IV of the \\(xy\\)-plane.  Which of the following could define the function \\(h\\)?",
+    "options": [
+      "A. \\(h(x)=16x+16 \\)",
+      "B. \\(h(x)=16x \\)",
+      "C. \\(h(x)=16 \\)",
+      "D. \\(h(x)=-16\\)"
+    ],
+    "image": "data/Images/SAT_2025_DECV3_M1_Q12_Image.png",
+    "answer": "D"
+  },
+   {
+    "id": "SAT_2025_DECV3_M1_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "A real estate company offers a series of three webinars.  3,125 people attended the first webinar.  48% of the people who attended the first webinar attended the second webinar, and 37% of the people who attended the first and second webinars attended the third webinar.  How many people attended all three webinars?",
+    "answer": "555"
+  },
+  {
+    "id": "SAT_2025_DECV3_M1_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Triangles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "In the right triangle shown above, what is the value of cos\\(Y\\)?",
+    "options": [
+      "A. \\(\\frac{3}{5} \\)",
+      "B. \\(\\frac{3}{4} \\)",
+      "C. \\(\\frac{4}{5} \\)",
+      "D. \\(\\frac{4}{3}\\)"
+    ],
+    "image": "data/Images/SAT_2025_DECV3_M1_Q14_Image.png",
+    "answer": "A"
+  },
+   {
+    "id": "SAT_2025_DECV3_M1_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline -3(4v-1)(v+6)^2 - (v+6)^2=0 \\newline \\)  What is the positive solution to the given equation?",
+    "options": [
+      "A. 6",
+      "B. 4",
+      "C. \\( \\frac{1}{4}\\)",
+      "D. \\( \\frac{1}{6}\\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_DECV3_M1_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "A number \\(f\\) is 130% greater than a positive number \\(g\\).  A number \\(h\\) is 20% less than the number \\(f\\).  The number \\(h\\) is how many times the number \\(g\\)?",
+    "options": [
+      "A. 0.26",
+      "B. 0.46",
+      "C. 1.04",
+      "D. 1.84"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_DECV3_M1_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline 4x^2-12x+4=0 \\newline \\)  What is a solution to the given equation?",
+    "options": [
+      "A. \\( \\frac{3-\\sqrt{5}}{2} \\)",
+      "B. \\( \\frac{3-\\sqrt{10}}{2} \\)",
+      "C. \\( \\frac{12-\\sqrt{80}}{2} \\)",
+      "D. \\( \\frac{12-\\sqrt{208}}{2}\\)"
+    ],
+    "answer": "A"
+  },
+     {
+    "id": "SAT_2025_DECV3_M1_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "If \\( 12+\\frac{1}{4}(7x-5)=\\frac{3}{4}(7x-5) \\), what is the value of \\(7x-5\\)?",
+    "answer": "24"
+  },
+    {
+    "id": "SAT_2025_DECV3_M1_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Similar Triangles",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "Triangle \\(ABC\\) is similar to triangle \\(XYZ\\), where \\(A\\) and \\(B\\) correspond to \\(X\\) and \\(Y\\), respectively.  The length of eeach side of triangle \\(XYZ\\) is \\(k\\) times the length of its corresponding side in triangle \\(ABC\\), where \\(k\\) is an integer greater than 1.  The measure, in degrees, of angle \\(Z\\) can be represented by the expression \\(9x+29\\), where \\(x\\) is an integer.  Which of the following expressions represents the measure, in degrees, of angle \\(C\\) for all possible values of \\(x\\)?",
+    "options": [
+      "A. \\(9x+29\\)",
+      "B. \\(k(9x+29)\\)",
+      "C. \\(90 - (9x+29) \\)",
+      "D. \\(180 - k(9x+29) \\)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "SAT_2025_DECV3_M1_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\newline f(x)=x+4 \\newline g(x)=5x^2-rx+80 \\newline \\)The function \\(f\\) and \\(g\\) are given.  In function \\(g\\), \\(r\\) is a constant.  If \\(f(x) \\cdot g(x)=5x^3+320 \\), what is the value of \\(r\\)?",
+    "answer": "20"
+  },
+      {
+  "id": "SAT_2025_DECV3_M1_Q21",
+  "paper": {
+    "year": 2025,
+    "month": "December V3",
+    "module": 1,
+    "questionNumber": 21
+  },
+  "section": "Math",
+  "topic": "Advanced Math",
+  "subtopic": "Nonlinear Functions",
+  "difficulty": 4,
+  "type": "MCQ",
+  "text": "A conservation specialist hung artificial nesting structures each in the shape of a right rectangular prism for a species of native duck.  Each structure has a height of 18 inches.  The length of each structure's base is \\(x\\) inches, which is 1 inch more than the width of the structure's base.  Which function \\(V\\) gives the volume of each structure, in cubic inches, in terms of the length of the structure's base?",
+  "options": [
+      "A. \\( V(x)=x(x+18)(x+1)\\)",
+      "B. \\( V(x)=x(x+18)(x-1)\\)",
+      "C. \\( V(x)=18x(x+1)\\)",
+      "D. \\( V(x)=18x(x-1)\\)"
+    ],
+  "answer": "D"
+},
+  {
+    "id": "SAT_2025_DECV3_M1_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Which system of linear equations has no solution?",
+    "options": [
+      "A. \\( \\newline -4x+2y=-7 \\newline 4x-2y=7 \\)",
+      "B. \\( \\newline 4x-2y=7 \\newline 5x+3y=8 \\)",
+      "C. \\( \\newline 4x-2y=7 \\newline -12x+6y=-21 \\)",
+      "D. \\( \\newline -4x+2y=7 \\newline 8x-4y=14 \\)"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A total of 215 toothpicks of equal length were used to construct two types of figures: triangles and squares.  The triangles and squares were constructed so that no two figures had a common side.  The equation \\(3x+3y=215\\) represents this situation, where \\(x\\) is the number of triangles constructed and \\(y\\) is the number of squares constructed.  What is the best interpretation of \\((x,y)=(25,35)\\) in this context?",
+    "options": [
+      "A. If 25 triangles were constructed, then 35 squares were constructed.",
+      "B. If 25 triangles were constructed, then 35 toothpicks were used.",
+      "C. If 35 triangles were constructed, then 25 squares were constructed.",
+      "D. If 35 triangles were constructed, then 25 toothpicks were used."
+    ],
+    "answer": "A"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by \\(f(x)=2x+b\\), where \\(b\\) is a constant and \\(f(4)=1\\).  What is the value of \\(b\\)?",
+    "answer": "-7"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The graph of \\(y=f(x)\\) is shown, where the function \\(f\\) is defined by \\(f(x)=ax^3+bx^2+cx+d\\) and \\(a,b,c,\\) and \\(d\\) are constants.  For how many values of \\(x\\) does \\(f(x)=0\\)?",
+    "options": [
+      "A. One",
+      "B. Two",
+      "C. Three",
+      "D. Four"
+    ],
+    "image": "data/Images/SAT_2025_DECV3_M2_Q3_Image.png",
+    "answer": "C"
+  },
+   {
+    "id": "SAT_2025_DECV3_M2_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "If \\(3(x-4)^2=243\\), what is the value of \\(x^2-8x\\)?",
+    "options": [
+      "A. 49",
+      "B. 65",
+      "C. 81",
+      "D. 97"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV3_M2_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Problem Solving and Data Analysis",
+    "subtopic": "Scatterplots",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The scatterplot shows the relationship between two variables \\(x\\) and \\(y\\).  Which of the following equations is the most appropriate quadratic model for the data shown?",
+    "options": [
+      "A. \\( y=-0.005(x-50)^2+34 \\)",
+      "B. \\( y=-0.005(x-34)^2+50 \\)",
+      "C. \\( y=0.005(x-50)^2+34 \\)",
+      "D. \\( y=0.005(x-34)^2+50 \\)"
+    ],
+    "image": "data/Images/SAT_2025_DECV3_M2_Q5_Image.png",
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_DECV3_M2_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "A right circular cylinder has a volume of \\(36,501\\pi\\) cubic inches.  The height of the cylinder is 3 times its radius.  What is the radius, in inches, of the cylinder?",
+    "options": [
+      "A. 23",
+      "B. 69",
+      "C. 529",
+      "D. 1,587"
+    ],
+    "answer": "A"
+  },
+   {
+    "id": "SAT_2025_DECV3_M2_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "The function \\(g\\) is defined by \\(g(x)=16x+39\\).  For what value of \\(x\\) does \\(g(x)=43\\)?",
+    "answer": "1/4"
+  },
+     {
+    "id": "SAT_2025_DECV3_M2_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Equation of Circles",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "In the \\(xy\\)-plane, an equation of circle R is \\((x+7)^2+(y+19)^2=100\\).  Circle S is obtained by shifting circle R to the right 2 units.  An equation defining circle S is \\((x+h)^2+(y+k)^2=100\\), where \\(h\\) and \\(k\\) are constants.  What is the value of \\(h\\)?",
+    "answer": "5"
+  },
+  {
+    "id": "SAT_2025_DECV3_M2_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "For a linear relationship between \\(x\\) and \\(y\\), the table gives three values of \\(x\\) and their corresponding values of \\(y\\), where \\(t\\) is a constant.  Which equation represents this relationship?",
+    "options": [
+      "A. \\( y=-2x+t+29\\)",
+      "B. \\( y=2x+t+29\\)",
+      "C. \\( y=-\\frac{29}{13}x+t+58\\)",
+      "D. \\( y=\\frac{29}{13}x+t+58\\)"
+    ],
+    "table_data": [
+        {"\\(x\\)": "-26", "\\(y\\)": "\\(t\\)"},
+        {"\\(x\\)": "-13", "\\(y\\)": "\\(t+29\\)"},
+        {"\\(x\\)": 0, "\\(y\\)": "\\(t+58\\)"}
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\newline 5(7x)+8(6y)=266 \\newline 5(7x)-8(6y)=-406 \\newline \\)  The solution to the given system of equations is \\((x,y)\\).  What is the value of \\(7x+6y\\)?",
+    "options": [
+      "A. -56",
+      "B. -14",
+      "C. 28",
+      "D. 42"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_DECV3_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by the equation \\(f(x)=91x+b\\), where \\(b\\) is a constant.  In the \\(xy\\)-plane, the graph of \\(y=f(x)\\) contains the points \\((0,27)\\) and \\((8,p+16)\\), where \\(p\\) is a constant.  What is the value of \\(p\\)?",
+    "answer": "739"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline \\frac{-20x-37+m}{2}=k(x+6) \\newline \\)In the given equation, \\(k\\) and \\(m\\) are constants.  The equation has infinitely many solutions.  What is the value of \\(m\\)?",
+    "options": [
+      "A. 49",
+      "B. -10",
+      "C. -23",
+      "D. -83"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline f(x) = 5,000(1.003)^{2x} \\newline \\) The given function \\(f\\) models the balance of a bank account, in dollars, \\(x\\) years after it is opened.  Which statement is the best interpretation of \\((1.0003)^{2x}\\)?",
+    "options": [
+      "A. Every 6 months, the balance increases by about $3.",
+      "B. Every 2 years, the balance increases by about $3.",
+      "C. At the end of every 6-month interval, the balance increases by about 0.3% of the balance at the beginning of the 6-month interval.",
+      "D. At the end of every 2-year interval, the balance increases by about 0.3% of the balance at the beginning of the 2-year interval."
+    ],
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "At a hotel, guests used the pool for a total of \\(t\\) hours in March.  At the same hotel, guests used the pool for \\(3.78t\\) hours in April.  What is the percent increase in the number of hours guests used the pool from March to April?",
+    "options": [
+      "A. 2.78%",
+      "B. 3.78%",
+      "C. 278%",
+      "D. 378%"
+    ],
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Rearranging Formulas",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\( \\newline \\frac{1}{7xy}+xyz=\\frac{1}{9yz} \\newline \\) In the given equation, \\(x, y,\\) and \\(z\\) are positive numbers.  Which expression is equivalent to \\(y\\)?",
+    "options": [
+      "A. \\( \\frac{7x-9z}{63x^2z^2} \\)",
+      "B. \\( \\sqrt{\\frac{7x-9z}{63x^2z^2}} \\)",
+      "C. \\( \\frac{1}{9xz^2-7x^2y} \\)",
+      "D. \\( \\sqrt{\\frac{1}{9xz^2-7x^2z}} \\)"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "SAT_2025_DECV3_M2_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Sampling",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "A researcher selected 23 guinea pigs from one habitat and 19 wild cavies from another habitat at random in Venezuela.  A field of a specific size within each habitat was divided into equally-sized virtual squares, and the animals were allowed to wander in the field for a fixed amount of time.  To observe their behavior, the researcher counted the number of times the guinea pigs and wild cavies crossed the virtual squares in their field during early adolescence and again during late adolescence.  The researcher found that in early adolescence, the number of virtual squares the wild cavies crossed was significantly more than the number of virtual squares the guinea pigs crossed.  The researcher also found that the number of virtual squares crossed by both the wild cavies and the guinea pigs decreased from early adolescence to late adolescence.  Based on the researcher's findings, which of the following is an appropriate conclusion that can be drawn from this study?",
+    "options": [
+      "A. The statistically significant difference in behavior between the two age groups was caused by the differences in habitat.",
+      "B. The statistically significant difference in behavior between the two age groups was caused by aging.",
+      "C. The statistically significant difference in behavior during early adolescence between the two groups of animals can be generalized to all guinea pigs and wild cavies.",
+      "D. The statistically significant difference in behavior during early adolescence between the two groups of animals can only be generalized to the habitats in the study."
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_DECV3_M2_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Models",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The quadratic function \\(g\\) models the depth, in meters, below the surface of the water of a Weddell seal \\(t\\) minutes after the seal entered the water during a dive. The function estimates that the seal reached its maximum depth of 409.6 meters 8 minutes after it entered the water and then reached the surface of the water 16 minutes after it entered the water. Based on the function, what was the estimated depth, to the nearest meter, of the seal 11 minutes after it entered the water?",
+    "answer": "352"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Angles",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The measure of angle \\(G\\) is \\( \\frac{\\pi}{10}\\) radians.  If the measure of angle \\(G\\) is \\(9n\\) degrees, where \\(n\\) is a constant, what is the value of \\(n\\)?",
+    "options": [
+      "A. 2",
+      "B. 9",
+      "C. 10",
+      "D. 18"
+    ],
+    "answer": "A"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Geometry and Trigonometry",
+    "subtopic": "Trigonometry",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In triangle \\(XYZ\\), the measure of angle \\(X\\) is 90 degrees.  Point \\(W\\) lies on segment \\(YZ\\) and segment \\(WX\\) is perpendicular to segment \\(YZ\\).  The length of segment \\(WY\\) is 684, and the length of segment \\(WX\\) is 513.  What is the value of tan\\(Z\\)?",
+    "options": [
+      "A. \\( \\frac{4}{3} \\)",
+      "B. \\( \\frac{4}{5} \\)",
+      "C. \\( \\frac{3}{4} \\)",
+      "D. \\( \\frac{3}{5} \\)"
+    ],
+    "answer": "A"
+  },
+    {
+    "id": "SAT_2025_DECV3_M2_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\newline r^2+qr=4r-55 \\newline \\)  In the given equation, \\(q\\) is an integer constant.  The given equation has no real solutions.  What is the largest possible value of \\(q\\)?",
+    "answer": "18"
+  },
+  {
+    "id": "SAT_2025_DECV3_M2_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "December V3",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Similar Triangles",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "In triangle \\(ABC\\), the measure of angle \\(B\\) is 90 degrees and \\(BD\\) is an altitude of the triangle.  The length of \\(AB\\) is 15 and the length of \\(AC\\) is 17 greater than the length of \\(AB\\).  What is the value of \\( \\frac{BD}{BC}\\)?",
+    "options": [
+      "A. \\( \\frac{15}{32} \\)",
+      "B. \\( \\frac{15}{17} \\)",
+      "C. \\( \\frac{17}{15} \\)",
+      "D. \\( \\frac{32}{15} \\)"
+    ],
+    "answer": "A"
+  }
+]
