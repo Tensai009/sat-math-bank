@@ -117,4 +117,67 @@ select {
 
 .option-item:hover {
   background-color: #f9f9f9;
+
+}
+
+```css
+/* --- SPLASH SCREEN STYLES --- */
+#splash-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff; /* Background color of loading screen */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999; /* Ensures it sits on top of everything */
+  transition: opacity 0.8s ease-out, visibility 0.8s;
+}
+
+.splash-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%; /* Makes it a circle */
+  object-fit: cover;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  animation: float 3s ease-in-out infinite;
+}
+
+.splash-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  font-family: sans-serif;
+}
+
+/* Class to hide the splash screen */
+.hidden-splash {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Optional: Gentle floating animation */
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+/* --- HEADER BRANDING STYLES --- */
+.header-branding {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header-logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border: 2px solid #007bff;
 }
