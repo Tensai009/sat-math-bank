@@ -839,6 +839,913 @@
     "answer": "9"
   },
 
+   {
+    "id": "SAT_2025_JUNE_M1_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The graph of the linear function \\(f\\) is shown, where \\(y=f(x)\\).  What is the \\(y\\)-intercept of the graph of \\(f\\)?",
+    "options": [
+      "A. \\((0,6)\\)",
+      "B. \\((0,0)\\)",
+      "C. \\((0,-4)\\)",
+      "D. \\((0,-6)\\)"
+    ],
+    "image": "data/Images/SAT_2025_JUNE_M1_Q1_Image.png",
+    "answer": "D"
+  },
+
+    {
+    "id": "SAT_2025_JUNE_M1_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Probability",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "Each rock in a collection of 70 rocks was classified either igneous, metamorphic, or sedimentary, as shown in the frequency table.  If one of these rocks is selected at random, what is the probability of selecting a rock that is igneous?",
+    "options": [
+      "A. \\( \\frac{10}{70} \\)",
+      "B. \\( \\frac{10}{60} \\)",
+      "C. \\( \\frac{10}{38} \\)",
+      "D. \\( \\frac{10}{22} \\)"
+    ],
+    "table_data": [
+        {"Classification": "igneous", "Frequency": 10},
+        {"Classification": "metamorphic", "Frequency": 38},
+        {"Classification": "sedimentary", "Frequency": 22}
+    ],
+    "answer": "A"
+  },
+
+     {
+    "id": "SAT_2025_JUNE_M1_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Similar Shapes",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "Each side of square A has a length of 13 inches.  Each side of square A is multiplied by a scale factor of 3 to create square B.  What is the length, in inches, of each side of square B?",
+    "options": [
+      "A. 10",
+      "B. 13",
+      "C. 16",
+      "D. 39"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_June_M1_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The function \\(f(x)=\\frac{1}{9}(x-6)^2+3\\) gives a toy car's height above the ground \\(f(x)\\), in inches, \\(x\\) seconds after it started moving on an elevated track, where \\(0\\leq x \\leq 10\\).  Which of the following is the best interpretation of the vertex of the graph of \\(y=f(x)\\) in the \\(xy\\)-plane?",
+    "options": [
+      "A. The toy car's minimum height was 3 inches above the ground.",
+      "B. The toy car's minimum height was 6 inches above the ground.",
+      "C. The toy car's height was 3 inches above the ground when it started moving.",
+      "D. The toy car's height was 6 inches above the ground when it started moving."
+    ],
+    "answer": "A"
+  },
+    {
+    "id": "SAT_2025_June_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "If \\(3x=8\\), what is the value of \\(21x\\)?",
+    "options": [
+      "A. 1",
+      "B. 15",
+      "C. 31",
+      "D. 56"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_June_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "A car travels at a speed of at least 25 miles per hour but no more than 50 miles per hour for a certain part of a trip.  Which inequality represents this situation, where \\(x\\) is the speed of the car, in miles per hour, on this part of the trip?",
+    "options": [
+      "A. \\(x \\geq 25 \\)",
+      "B. \\(x \\geq 50 \\)",
+      "C. \\(25 \\leq x \\leq 50 \\)",
+      "D. \\(x \\leq 75 \\)"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_June_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Descriptive Statistics",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "A list of 10 data values is shown. \\(\\newline \\qquad \\) 10, 14, 22, 6, 24, 26, 14, 8, 8, 8 \\(\\newline \\)  What is the mean of these data?",
+    "options": [
+      "A. 8",
+      "B. 12",
+      "C. 14",
+      "D. 20"
+    ],
+    "answer": "C"
+  },
+     {
+    "id": "SAT_2025_June_M1_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( f(x)=7x+3 \\newline \\) The function \\(f\\) gives the estimated height, in feet, of a willow tree \\(x\\) years after its height was first measured.  Which statement is the best interpretation of 3 in this context?",
+    "options": [
+      "A. The tree will be measured each year for 3 years.",
+      "B. The tree is estimated to grow to a maximum height of 3 feet.",
+      "C. The estimated height of the tree increased by 3 feet each year.",
+      "D. The estimated height of the tree was 3 feet when it was first measured."
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_June_M1_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Factoring",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(2x^3+8x^2y+xy^2+4y^3\\)?",
+    "options": [
+      "A. \\((2x^2+4y)(x+y^2)\\)",
+      "B. \\((2x^2+y^2)(x+4y)\\)",
+      "C. \\((2x^3+y^2)(x^2+4y^3)\\)",
+      "D. \\((2x^3+y^3)(x+4y)\\)"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_June_M1_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\(f(x)=x^3+8x+17 \\newline \\) For the given function \\(f\\), the graph of \\(y=f(x)\\) in the \\(xy\\)-plane passes through the point \\((0,b)\\), where \\(b\\) is a constant.  What is the value of \\(b\\)?",
+    "answer": "17"
+  },
+    {
+    "id": "SAT_2025_June_M1_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Scientists collected fallen acorns that each housed a colony of the ant species P.ohioensis and analyzed each colony's structure.  For any of these colonies, if the colony has \\(x\\) worker ants, the equation \\(y=0.67x+2.6\\), where \\(20 \\leq x \\leq 110 \\), gives the predicted number of larvae, \\(y\\), in the colony.  If one of these colonies has 35 worker ants, which of the following is closest to the predicted number of larvae in the colony?",
+    "options": [
+      "A. 114",
+      "B. 48",
+      "C. 38",
+      "D. 26"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_June_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Rearranging Formula",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(b-49=\\frac{x}{y} \\newline \\)  The given equation relates the positive numbers \\(b, x, \\) and \\(y\\).  Which equation correctly expresses \\(x\\) in terms of \\(b\\) and \\(y\\)?",
+    "options": [
+      "A. \\(x=\\frac{by-49}{y} \\)",
+      "B. \\(x=by-49y \\)",
+      "C. \\(x=by-49 \\)",
+      "D. \\(x=\\frac{b-49}{y}\\)"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_June_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(\\newline 2y=5x+16 \\newline -2y=7x-22 \\newline \\)  The solution to the given system of equations is \\((x,y)\\).  What is the value of \\(24x\\)?",
+    "options": [
+      "A. -12",
+      "B. -6",
+      "C. 6",
+      "D. 12"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_June_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( 19.5x+24.25y=583 \\newline \\) Odalys ordered mulch and river rock, which cost a total of $583, for her home.  The given equation equation represents the relationship between the number of cubic yards of mulch, \\(x\\), and the number of tons of river rock, \\(y\\), Odalys ordered.  How much more, in dollars, did a ton of river rock cost Odalys than a cubic yard of mulch?",
+    "answer": "4.75"
+  },
+     {
+    "id": "SAT_2025_June_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "James purchased a certain baseball card on January 1.  The function \\(f(x)=55(1.04)^x\\), where \\( 0 \\leq x \\leq 10 \\), gives the predicted value, in dollars, of the baseball card \\(x\\) years after James purchased it.  What is the best interpretation of the statement \"\\(f(7)\\) is approximately equal to 72\" in this context?",
+    "options": [
+      "A. When the baseball card's predicted value is approximately 72 dollars, it is 7% greater than the predicted value, in dollars, on January 1 of the previous year.",
+      "B. When the baseball card's predicted value is approximately 72 dollars, it is 7 times the predicted value, in dollars, on January 1 of the previous year.",
+      "C. From the day James purchased the baseball card to 7 years after James purchased the card, its predicted value increased by a total of approximately 72 dollars.",
+      "D. 7 years after James purchased the baseball card, its predicted value is approximately 72 dollars."
+    ],
+    "answer": "D"
+  },
+       {
+    "id": "SAT_2025_June_M1_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "At what value of \\(x\\) does the graph of \\(y=x^2+18x-23\\) reach its minimum in the \\(xy\\)-plane?",
+    "options": [
+      "A. -23",
+      "B. -9",
+      "C. 9",
+      "D. 18"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_June_M1_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( P(t)=260(1.03)^{\\frac{3}{2}t} \\newline \\)  The function \\(P\\) models the population, in thousands, of a certain city \\(t\\) years after 2009.  According to the model, the population is predicted to increase by \\(n\\)% every 8 months.  What is the value of \\(n\\)?",
+    "options": [
+      "A. 0.22",
+      "B. 1.03",
+      "C. 2",
+      "D. 3"
+    ],
+    "answer": "D"
+  },
+       {
+    "id": "SAT_2025_June_M1_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Unit Conversion",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "How many centimeters are equivalent to 47 meters?  (1 meter = 100 centimeters)",
+    "answer": "4700"
+  },
+      {
+    "id": "SAT_2025_June_M1_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Similar Shapes",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "Circle A has a radius of \\(3x\\) and circle B has a radius of \\(135x\\).  The area of circle B is how many times the area of circle A?",
+    "answer": "2025"
+  },
+    {
+    "id": "SAT_2025_June_M1_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The graph of a line in the \\(xy\\)-plane passes through the point \\((1,5)\\) and crosses the \\(x\\)-axis at the point \\((9,0)\\).  The line crosses the \\(y\\)-axis at the point \\((0,b)\\).  What is the value of \\(b\\)?",
+    "answer": "45/8"
+  },
+        {
+  "id": "SAT_2025_June_M1_Q21",
+  "paper": {
+    "year": 2025,
+    "month": "June",
+    "module": 1,
+    "questionNumber": 21
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Linear Equations",
+  "difficulty": 4,
+  "type": "FillIn",
+  "text": "If \\( \\frac{2a}{b}=6.5 \\) and \\( \\frac{a}{bn}=26\\), what is the value of \\(n\\)?",
+  "answer": "1/8"
+},
+  {
+    "id": "SAT_2025_June_M1_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Trigonometry",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "For two acute angles, \\( \\angle Q\\) and \\( \\angle R\\), cos(\\(Q\\)) \\(=\\) sin(\\(R\\)).  The measure, in degrees, of \\( \\angle Q\\) and \\( \\angle R \\) are \\(x+61\\) and \\(4x+4\\), respectively.  What is the value of \\(x\\)?",
+    "options": [
+      "A. 5",
+      "B. 19",
+      "C. 23",
+      "D. 29"
+    ],
+    "answer": "A"
+  },
+
+       {
+    "id": "SAT_2025_June_M2_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(14(x^2-6)\\)?",
+    "options": [
+      "A. \\(14x^2-84\\)",
+      "B. \\(14x^2-20\\)",
+      "C. \\(14x^2-6\\)",
+      "D. \\(14x^2+8\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A scientist analyzed a soil sample with a mass of 900 grams and determined that it contained 189 grams of water.  What is the percentage of water, by mass, in this soil sample?",
+    "options": [
+      "A. 9%",
+      "B. 9.9%",
+      "C. 18.9%",
+      "D. 21%"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "System of Nonlinear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\newline x+5=11 \\newline y=3x^2+3 \\newline \\)  At what point \\((x,y)\\) do the graphs of the equations in the given system intersect?",
+    "options": [
+      "A. \\((6,108)\\)",
+      "B. \\((6,111)\\)",
+      "C. \\((11,3)\\)",
+      "D. \\((11,366)\\)"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_June_M2_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "If \\(\\frac{6}{7}p+42=84\\), what is the value of \\(7p\\)?",
+    "answer": "343"
+  },
+    {
+    "id": "SAT_2025_June_M2_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "If \\(5(x+4)=4(x+4)+58\\), what is the value of \\(x+4\\)?",
+    "options": [
+      "A. -4",
+      "B. 54",
+      "C. 58",
+      "D. 62"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Circle N has a radius of 6 millimemters (mm).  Circle M has an area of 121\\(\\pi\\) \\(\\text{mm}^2\\).  What is the total area, in \\(\\text{mm}^2\\), of circles N and M?",
+    "options": [
+      "A. 17\\(\\pi\\)",
+      "B. 133\\(\\pi\\)",
+      "C. 145\\(\\pi\\)",
+      "D. 157\\(\\pi\\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_June_M2_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "What is the slope of the graph of \\(y=\\frac{1}{4}(27x+12)+7x\\) in the \\(xy\\)-plane?",
+    "options": [
+      "A. \\( \\frac{27}{4}\\)",
+      "B. \\( \\frac{55}{4}\\)",
+      "C. \\( 27\\)",
+      "D. \\( 34\\)"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_June_M2_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The function \\(f\\) is defined by \\(f(x)=\\frac{x+16}{5}\\), and \\(f(a)=-19\\), where \\(a\\) is a constant.  What is the value of \\(a\\)?",
+    "options": [
+      "A. \\( -111\\)",
+      "B. \\( -79\\)",
+      "C. \\( -\\frac{79}{5}\\)",
+      "D. \\( -\\frac{3}{5}\\)"
+    ],
+    "answer": "A"
+  },
+    {
+    "id": "SAT_2025_June_M2_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Mean, Median, Mode",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "A data set of the orbital periods, rounded to the nearest whole number of Earth days, for 13 of Jupiter's moos is represented in the dot plot.  An additional moon with an orbital period of 251 days is added to the original data set to create a new data set of 14 orbital periods.  Which statement best compares the mean and median of the new data set to the mean and median of the original data set?",
+    "options": [
+      "A. The mean of the new data set is equal to the mean of the original data set, and the median of the new data set is equal to the median of the original data set.",
+      "B. The mean of the new data set is equal to the mean of the original data set, and the median of the new data set is less than the median of the original data set.",
+      "C. The mean of the new data set is less than the mean of the original data set, and the median of the new data set is less than the median of the original data set.",
+      "D. The mean of the new data set is less than the mean of the original data set, and the median of the new data set is equal to the median of the original data set."
+    ],
+    "image": "data/Images/SAT_2025_JUNE_M2_Q9_Image.png",
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "For the linear function \\(p\\), \\(p(c)=-2\\), where \\(c\\) is a constant, \\(p(5)=34\\), and the slope of the graph of \\(y=p(x)\\) in the \\(xy\\)-plane is 6.  For the linear function \\(t\\), \\(t(c)=-4\\) and \\(t(6)=52\\).  What is the slope of the graph of \\(y=t(x)\\) in the \\(xy\\)-plane?",
+    "options": [
+      "A. -1",
+      "B. -4",
+      "C. 6",
+      "D. 8"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( 18x^2-24x+c=0 \\newline \\)  In the given equation, \\(c\\) is a constant.  The equation has exactly one solution.  What is the value of \\(c\\)?",
+    "answer": "8"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "A conservation specialist hung artificial nesting structures each in the shape of a right rectangular prism for a species of native owl.  Each structure has a height of 11 inches.  The length of each structure's base is \\(x\\) inches, which is 1 inch less than the width of the structure's base.  Which function \\(V\\) gives the volume of each structure, in cubic inches, in terms of the length of the structure's base?",
+  "options": [
+      "A. \\( V(x)=x(x+11)(x+1)\\)",
+      "B. \\( V(x)=x(x+11)(x-1)\\)",
+      "C. \\( V(x)=11x(x+1)\\)",
+      "D. \\( V(x)=11x(x-1)\\)"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\frac{x+1}{5x^2}=\\frac{k}{x} \\newline \\)In the given equation, \\(k\\) is a constant.  The solution to the given equation is \\(\\frac{1}{224}\\).  What is the value of \\(k\\)?",
+    "answer": "45"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 5,
+    "type": "MCQ",
+    "text": "The function \\(f\\) is defined by \\(f(x)=-39^x\\).  The function \\(g\\) is a decreasing linear function.  In the \\(xy\\)-plane, the graphs of \\(y=f(x)\\) and \\(y=g(x)\\) intersect at two points, \\( (h,j) \\) and \\((k,m)\\), where \\( j \\gt m \\).  When \\( g(x) \\lt f(x) \\), which of the following must also be true?",
+    "options": [
+      "A. \\(x \\gt k\\)",
+      "B. \\(x \\lt h\\)",
+      "C. \\(x \\gt k\\) or \\(x \\lt h\\)",
+      "D. \\(h \\lt x \\lt k\\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Proportions and Ratio",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "One gallon of sealant costs $29 and will cover 300 square feet of a surface.  A deck has a total surface area of \\(d\\) square feet.  Which equation represents the cost \\(c\\), in dollars, of the sealant needed to cover the deck twice?",
+    "options": [
+      "A. \\( c=\\frac{300d}{29}\\)",
+      "B. \\( c=\\frac{600d}{29}\\)",
+      "C. \\( c=29(\\frac{d}{150})\\)",
+      "D. \\( c=29(\\frac{d}{300})\\)"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A triangular prism has a height of 9 centimeters (cm) and a volume of 234 \\(\\text{cm}^3\\).  What is the area, in \\(\\text{cm}^2\\), of the base of the prism?  (The volume of a triangular prism is equal to \\(Bh\\), where \\(B\\) is the area of the base and \\(h\\) is the height of the prism.)",
+    "answer": "26"
+  },
+    {
+    "id": "SAT_2025_June_M2_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Unit Conversion",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "An area of 56.00 square nautical miles is equivalent to \\(k\\) square kilometers.  To the nearest tenth, what is the value of \\(k\\)?  (1 nautical mile \\(=\\) 1.852 kilometers)",
+    "answer": "192.1"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Equation of Circles",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A circle in the \\(xy\\)-plane has its center at \\((7,-3)\\) and has a radius of 9.  An equation of this circle is \\(x^2+y^2+ax+by+c=0\\), where \\(a, b,\\) and \\(c\\) are constants.  What is the value of \\(c\\)?",
+    "answer": "-23"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "System of Nonlinear Equations",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\( \\newline y=x-c \\newline y=-4(x-6)^2 \\newline \\)  In the given system of equations, \\(c\\) is a constant.  The system has two distinct real solutions.  Which of the following could be the value of \\(c\\)?",
+    "options": [
+      "A. \\(1\\)",
+      "B. \\(5\\)",
+      "C. \\(\\frac{95}{16}\\)",
+      "D. \\(11\\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 5,
+    "type": "MCQ",
+    "text": "The functions \\(f\\) and \\(g\\) are defined by the equations shown, where \\(a\\) and \\(b\\) are integer constants, \\( a \\lt b \\) and \\( b \\lt 0 \\).  If \\(y=f(x)\\) and \\(y=g(x)\\) are graphed in the \\(xy\\)-plane, which of the following equations displays, as a constant or coefficient, the \\(y\\)-coordinate of the \\(y\\)-intercept of the graph of the corresponding function?  \\( \\newline \\qquad\\) I. \\(f(x)=a(4.2)^{x+b} \\newline \\qquad \\) II. \\(g(x)=a(4.2)^x+b\\)",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. I and II",
+      "D. Neither I nor II"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_June_M2_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 5,
+    "type": "MCQ",
+    "text": "\\( \\newline 5x+4y=3 \\newline 15x+12y=9 \\newline \\)  For each real number \\(r\\), which of the following points lies on the graph of each equation in the \\(xy\\)-plane for the given system?",
+    "options": [
+      "A. \\( (r, -\\frac{4r}{5}+\\frac{3}{5}) \\)",
+      "B. \\( (r, \\frac{5r}{4}+\\frac{3}{4}) \\)",
+      "C. \\( (-\\frac{4r}{5}+\\frac{3}{5}, r) \\)",
+      "D. \\( (\\frac{r}{3}+3, -\\frac{r}{3}+9) \\)"
+    ],
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2025_June_M2_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "June",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Congruent Triangles",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "In triangle \\(ABC\\) and triangle \\(DEF\\), sides \\(AB\\) and \\(DE\\) have a side length of 10 inches and angles \\(A\\) and \\(D\\) each have an angle measure of \\(40^{\\circ}\\).  Which of the following additional pieces of information is(are) sufficient to prove whether triangle \\(ABC\\) is congruent to triangle \\(DEF\\)? \\( \\newline \\qquad \\) I. The measures of angles \\(B\\) and \\(C\\) are equal. \\( \\newline \\qquad \\) II. The lengths of sides \\(AC\\) and \\(DF\\) are equal. \\(\\newline \\qquad\\) III. The lengths of sides \\(BC\\) and \\(EF\\) are equal.",
+    "options": [
+      "A. I is sufficient, but II and III are not.",
+      "B. II is sufficient, but I and III are not.",
+      "C. III is sufficient, but I and II are not.",
+      "D. II is sufficient and III is sufficient, but I is not."
+    ],
+    "answer": "B"
+  },
+
 {
     "id": "SAT_2025_DEC_M1_Q1",
     "paper": {
