@@ -839,6 +839,917 @@
     "answer": "9"
   },
 
+  {
+    "id": "SAT_2024_August_M1_Q1",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "Line \\(r\\) in the \\(xy\\)-plane has a slope of 2 and passes through the point \\((0,12)\\).  Which equation defines line \\(r\\)?",
+    "options": [
+      "A. \\(y=-12x+2\\)",
+      "B. \\(y=12x+2\\)",
+      "C. \\(y=2x-12\\)",
+      "D. \\(y=2x+12\\)"
+    ],
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2024_August_M1_Q2",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Angles",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "In the figure, line \\(p\\) is parallel to line \\(q\\), and line \\(t\\) intersects both lines.  What is the value of \\(x+142\\)?",
+    "options": [
+      "A. 52",
+      "B. 90",
+      "C. 142",
+      "D. 180"
+    ],
+    "image": "data/Images/SAT_2024_AUG_M1_Q2_Image.png",
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2024_AUG_M1_Q3",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The \\(y\\)-intercept of the graph of \\(y=x^2+38\\) in the \\(xy\\)-plane is \\((0,y)\\).  What is the value of \\(y\\)?",
+    "answer": "38"
+  },
+    {
+    "id": "SAT_2024_AUG_M1_Q4",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A large square has an area of 36 squares centimeters (\\text{cm}^2\\)).  Small squares of area 4 \\(\\text{cm}^2\\) are cut out of the large square one by one.  Which functions gives the area of the resulting figure, in \\(\\text{cm}^2\\), after \\(x\\) small squares are cut out?",
+    "options": [
+      "A. \\( f(x)=36-4x \\)",
+      "B. \\( f(x)=36x-2 \\)",
+      "C. \\( f(x)=40x \\)",
+      "D. \\( f(x)=34x \\)"
+    ],
+    "answer": "A"
+  },
+    {
+    "id": "SAT_2024_AUG_M1_Q5",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The shaded region shown in the graph represents all the solutions to which inequality?",
+    "options": [
+      "A. \\( x \\leq 33 \\)",
+      "B. \\( x \\geq 33 \\)",
+      "C. \\( y \\leq 33 \\)",
+      "D. \\( y \\geq 33 \\)"
+    ],
+    "image": "data/Images/SAT_2024_AUG_M1_Q5_Image.png",
+    "answer": "D"
+  },
+   {
+    "id": "SAT_2024_AUG_M1_Q6",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "How many solutions does the equation \\(5x+3=5x+7\\) have?",
+    "options": [
+      "A. Zero",
+      "B. Exactly one",
+      "C. Exactly two",
+      "D. Infinitely many"
+    ],
+    "answer": "A"
+  },
+     {
+    "id": "SAT_2024_AUG_M1_Q7",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\( \\qquad h(x)=x+b \\newline \\)  For the linear function \\(h\\), \\(b\\) is a constant and \\(h(0)=21\\).  What is the value of \\(b\\)?",
+    "answer": "21"
+  },
+     {
+    "id": "SAT_2024_AUG_M1_Q8",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "The function \\(g\\) is defined by \\(g(x)=2x-148\\).  For what value of \\(x\\) does \\(g(x)=76\\)?",
+    "answer": "112"
+  },
+     {
+    "id": "SAT_2024_AUG_M1_Q9",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Sampling",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "All district school board in a certain state is proposing a change to the time school starts for all high schools in the district.  A sample of 353 high school students was selected at random from all high school students in the district.  The selected students were asked whether they approved of the proposed change, and 300 students responded that they did not approve.  Which of the following is the largest population to which the results of the survey can be generalized?",
+    "options": [
+      "A. All high school students in the district",
+      "B. The 353 students who were surveyed",
+      "C. The 300 students who responded that they did not approve of the proposed change",
+      "D. All high school students in the state"
+    ],
+    "answer": "A"
+  },
+     {
+    "id": "SAT_2024_AUG_M1_Q10",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The Mars Perseverance rover is a robot designed to collect samples of rock and soil.  During an experiment, the rover moves at a constant speed on a straight path toward a designated target.  The equation \\(y=390-142x\\) gives the rover's remaining distance from its target \\(y\\), in meters, \\(x\\) hours after the start of the experiment.  What is the best interpretation of 390 in this context?",
+    "options": [
+      "A. The number of hours it takes the rover to reach its target",
+      "B. The rover's speed, in meters per hour, during the experiment",
+      "C. The rover's distance, in meters, from its target at the start of the experiment",
+      "D. The total distance, in meters, the rover travels in 1 hour"
+    ],
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2024_AUG_M1_Q11",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The graph of a polynomial function \\(y=f(x)\\) in the \\(xy\\)-plane passes through the point \\((8,9)\\).  What is the value of \\(f(8)\\)?",
+    "options": [
+      "A. 8",
+      "B. 9",
+      "C. 17",
+      "D. 72"
+    ],
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2024_AUG_M1_Q12",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Sampling",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A company that produces only one type of item wants to estimate the percent of the items produced in a typical week that are defective.  A random sample of 400 of the items produced in a certain week were tested.  Based on the sample, it is estimated that 8.5% of all items produced by the company in this week are defective, with an associated margin of error of 2.73%.  Based on the estimate and associated margin of error, which of the following is the most appropriate conclusion about all items produced by the company during this week?",
+    "options": [
+      "A. 2.73% of the items are defective.",
+      "B. It is plausible that between 5.77% and 11.23% of the items are defective.",
+      "C. 8.5% of the items are defective.",
+      "D. It is plausible that more than 11.23% of the items are defective."
+    ],
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2024_AUG_M1_Q13",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The graph of the linear equation \\(4x+By=12\\) is shown, where \\(B\\) is a constant.  What is the value of \\(B\\)?",
+    "options": [
+      "A. \\(\\frac{2}{3} \\)",
+      "B. \\(2\\)",
+      "C. \\(3\\)",
+      "D. \\(6\\)"
+    ],
+    "image": "data/Images/SAT_2024_AUG_M1_Q13_Image.png",
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2024_AUG_M1_Q14",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Which system of linear equations has infinitely many solutions?",
+    "options": [
+      "A. \\(\\newline 4x+2y=12 \\newline 4x+8y=48 \\)",
+      "B. \\(\\newline x+2y=12 \\newline x+8y=48 \\)",
+      "C. \\(\\newline x+2y=12 \\newline 4x+8y=48 \\)",
+      "D. \\(\\newline 4x+2y=12 \\newline x+8y=48\\)"
+    ],
+    "answer": "C"
+  },
+     {
+    "id": "SAT_2024_AUG_M1_Q15",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "System of Nonlinear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\newline x^2+y+3=3 \\newline 8x+16-y=0 \\newline \\)  The solution to the given system of equations is \\((x,y)\\).  What is the value of \\(x\\)?",
+    "options": [
+      "A. -16",
+      "B. -4",
+      "C. 2",
+      "D. 8"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2024_AUG_M1_Q16",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(\\frac{20\\pi^2}{\\pi^2 - x^2} - \\frac{20\\pi}{x+\\pi}\\), where \\( x \\gt \\pi\\)?",
+    "options": [
+      "A. \\( \\frac{20\\pi}{\\pi-x} \\)",
+      "B. \\( \\frac{20\\pi x}{\\pi^2-x^2} \\)",
+      "C. \\( \\frac{20{\\pi}^2-20\\pi}{\\pi^2-x^2} \\)",
+      "D. \\( \\frac{20\\pi-20}{(\\pi-x^2)(x+1)} \\)"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2024_AUG_M1_Q17",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The equation \\(y=-4.9(x-9.1)^2+10,700\\) gives the estimated height above ground, \\(y\\), in meters, of a plane, where \\(x\\) is the number of seconds since it started a parabolic maneuver.  If this equation is graphed in the \\(xy\\)-plane, which of the following is the best interpretation of the vertex of the graph?",
+    "options": [
+      "A. The plane reached an estimated maximum height of 10,700 meters 4.9 seconds after it started the parabolic maneuver.",
+      "B. The plane reached an estimated maximum height of 10,700 meters 9.1 seconds after it started the parabolic maneuver.",
+      "C. The plane reached an estimated maximum height of 4.9 meters 10,700 seconds after it started the parabolic maneuver.",
+      "D. The plane reached an estimated maximum height of 9.1 meters 10,700 seconds after it started the parabolic maneuver."
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2024_AUG_M1_Q18",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Trigonometry",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "In the triangle shown, \\(RS=\\sqrt{157}\\).  What is the value of sin\\(R\\)?",
+    "image": "data/Images/SAT_2024_AUG_M1_Q18_Image.png",
+    "answer": "78/79"
+  },
+      {
+    "id": "SAT_2024_AUG_M1_Q19",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "The figure shown is a right circular cylinder with a radius of \\(r\\) and height of \\(h\\).  A second right circular cylinder (not shown) has a volume that is 576 times as large as the volume of the cylinder shown.  Which of the following could represent the radius \\(R\\), in terms of \\(r\\), and the height \\(H\\), in terms of \\(h\\), of the second cylinder?",
+    "options": [
+      "A. \\(R=9r\\) and \\(H=8h\\)",
+      "B. \\(R=9r\\) and \\(H=64h\\)",
+      "C. \\(R=8r\\) and \\(H=9h\\)",
+      "D. \\(R=64r\\) and \\(H=9h\\)"
+    ],
+    "image": "data/Images/SAT_2024_AUG_M1_Q19_Image.png",
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2024_AUG_M1_Q20",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Equation of Circles",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": " \\( \\qquad (x-3)^2+(y+7)^2=25 \\newline \\)The given equation represents circle \\(P\\) in the \\(xy\\)-plane.  Circle \\(Q\\) has a center that is 1 unit in the right of and 2 units below the center of circle \\(P\\).  Circle \\(Q\\) has a diameter that is double the diameter of circle \\(P\\).  Which equation represents circle \\(Q\\)?",
+    "options": [
+      "A. \\( (x-2)^2+(y+5)^2=50 \\)",
+      "B. \\( (x-4)^2+(y+9)^2=50 \\)",
+      "C. \\( (x-2)^2+(y+5)^2=100 \\)",
+      "D. \\( (x-4)^2+(y+9)^2=100 \\)"
+    ],
+    "answer": "D"
+  },
+    {
+  "id": "SAT_2024_AUG_M1_Q21",
+  "paper": {
+    "year": 2024,
+    "month": "August",
+    "module": 1,
+    "questionNumber": 21
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "System of Linear Equations",
+  "difficulty": 3,
+  "type": "FillIn",
+  "text": "\\( \\newline (x-2)-8(y+3)=123 \\newline (x-2)+8(y+3)=432 \\newline \\)  The solution to the given system of equations is \\((x,y)\\).  What is the value of \\(10(x-2)\\)?",
+  "answer": "2775"
+},
+     {
+    "id": "SAT_2024_AUG_M1_Q22",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Ratio and Proportions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "On average, a certain tree grows 51 centimeters every \\(m\\) months.  At this rate, which expression represents the number of centimeters, on average, the tree grows every \\(k\\) years?",
+    "options": [
+      "A. \\( \\frac{17m}{4k} \\)",
+      "B. \\( \\frac{17k}{4m} \\)",
+      "C. \\( \\frac{612m}{k} \\)",
+      "D. \\( \\frac{612k}{m} \\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q1",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Function",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The graph of the linear fucntion \\(f\\) is shown, where \\(y=f(x)\\).  Which equation defines \\(f\\)?",
+    "options": [
+      "A. \\(f(x)=\\frac{5}{8}x-1\\)",
+      "B. \\(f(x)=\\frac{8}{5}x-1\\)",
+      "C. \\(f(x)=-\\frac{5}{8}x-1\\)",
+      "D. \\(f(x)=-\\frac{8}{5}x-1\\)"
+    ],
+    "image": "data/Images/SAT_2024_AUG_M2_Q1_Image.png",
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2024_AUG_M2_Q2",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "If \\(8(x+3)=64\\), what is the value of \\(x+3\\)?",
+    "options": [
+      "A. 5",
+      "B. 8",
+      "C. 53",
+      "D. 56"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q3",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponents and Radicals",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(\\sqrt{x^{153}}\\), where \\(x \\gt 0 \\)?",
+    "options": [
+      "A. \\( x^{\\frac{2}{153}}\\)",
+      "B. \\( x^{\\frac{153}{2}}\\)",
+      "C. \\( x^{151}\\)",
+      "D. \\(x^{306}\\)"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q4",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The complete graph of \\(y=f(x)\\) is shown.  For how many values of \\(x\\) does \\(f(x)=0\\)?",
+    "options": [
+      "A. Zero",
+      "B. One",
+      "C. Two",
+      "D. Three"
+    ],
+    "image": "data/Images/SAT_2024_AUG_M2_Q4_Image.png",
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2024_AUG_M2_Q5",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Model",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The number of bacteria in a liquid medium doubles every hour.  There are 44,000 bacteria in the liquid medium at the start of an observation.  Which of the following represents the number of bacteria, \\(y\\), in the liquid medium \\(t\\) hours after the start of the observation?",
+    "options": [
+      "A. \\( y=\\frac{1}{2}(44,000)^t \\)",
+      "B. \\( y=2(44,000)^t \\)",
+      "C. \\( y=44,000(\\frac{1}{2})^t \\)",
+      "D. \\( y=44,000(2)^t \\)"
+    ],
+    "answer": "C"
+  }, 
+     {
+    "id": "SAT_2024_AUG_M2_Q6",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\( (6t^4-3t^2+3t-6)-(2t^4-4t^3+6t^2-6)\\)?",
+    "options": [
+      "A. \\( 4t^4+4t^3-9t^2+3t-12\\)",
+      "B. \\( 4t^4+4t^3-9t^2+3t\\)",
+      "C. \\( 4t^4+t^3-9t-12\\)",
+      "D. \\( 4t^4+t^3+3t\\)"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q7",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( b-22=\\frac{x}{y} \\newline \\)  The given equation relates the positive numbers \\(b, x, \\) and \\(y\\).  Which equation correctly expresses \\(x\\) in terms of \\(b\\) and \\(y\\)?",
+    "options": [
+      "A. \\( x=\\frac{by-22}{y}\\)",
+      "B. \\( x=by-22 \\)",
+      "C. \\( x=by-22y \\)",
+      "D. \\( x=\\frac{b-22}{y} \\)"
+    ],
+    "answer": "C"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q8",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Descriptive Statistics",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "Ari examined a set of 86 plants.  The lightest plant had a mass of 2.8 kilograms (kg) and the heaviest plant had a mass of 6.2 kg.  Chihiro examined the same set of 86 plants and also an additional plant with a mass of 11.7 kg.  Which of the following must be true about the set of plants that Ari examined and the set of plants that Chihiro examined?",
+    "options": [
+      "A. The standard deviation of the masses, in kg, of the plants that Ari examined is greater than the standard deviation of the masses, in kg, of the plants that Chihiro examined.",
+      "B. The range of the masses, in kg, of the plants that Ari examined is greater than the range of the masses, in kg, of the plants that Chihiro examined.",
+      "C. The median of the masses, in kg, of the plants that Ari examined is less than the median of the masses, in kg, of the plants that Chihiro examined.",
+      "D. The mean of the masses, in kg, of the plants that Ari examined is less than the mean of the masses, in kg, of the plants that Chihiro examined."
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2024_AUG_M2_Q11",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "A linear model estimates the population of a city from 1995 to 2019.  The model estimates the population was 59 thousands in 1995, 217 thousand in 2015, and \\(x\\) thousands in 2019.  To the nearest whole number, what is the value of \\(x\\)?",
+    "answer": "249"
+  },
+      {
+    "id": "SAT_2024_AUG_M2_Q10",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Similar and Congruent Triangles",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Triangles \\(ABC\\) and \\(DEF\\) are similar, where \\(A\\) corresponds to \\(D\\), and \\(B\\) corresponds to \\(E\\).  The measure of angle \\(A\\) is \\(26^{\\circ}\\), and \\(AB=4\\).  Which of the following statements must be true?  \\(\\newline \\qquad\\)  I.  The measure of angle \\(D\\) is \\(26^{\\circ}\\) \\(\\newline \\qquad\\)  II.  \\(DE=4\\)",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. I and II",
+      "D. Neither I nor II"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2024_AUG_M2_Q11",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "A clothing store buy shirts at a wholesale price of 7.00 dollars each and resells them each at a retail price that is 260% of the wholesale price.  At the end of the season, any remaining shirts are marked at a discounted price that is 75% off the retail price.  What is the discounted price of each remaining shirt, in dollars?",
+    "answer": "4.55"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q12",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\qquad f(x)=7,020(0.28)^{\\frac{x}{12}} \\newline \\)  The function \\(f\\) gives the value, in dollars, of a certain piece of equipment after \\(x\\) months of use.  If the value of the equipment decreases each \\(\\underline{\\text{year}}\\) by \\(p\\)% of its value the preceding year, what is the value of \\(p\\)?",
+    "options": [
+      "A. 2",
+      "B. 10",
+      "C. 28",
+      "D. 72"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q13",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\qquad x^2+5x=47 \\newline \\) The solutions to the given equation are \\(\\frac{m+\\sqrt{q}}{2}\\) and \\(\\frac{m-\\sqrt{q}}{2}\\), where \\(m\\) and \\(q\\) are integers.  What is the value of \\(m+q\\)?",
+    "answer": "208"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q14",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Discriminant",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In the equation \\(7x^2+49x+c=0\\), \\(c\\) is a constant.  If the equation has exactly one real solution, what is the value of \\(c\\)?",
+    "options": [
+      "A. \\(0\\)",
+      "B. \\(\\frac{7}{2}\\)",
+      "C. \\(56\\)",
+      "D. \\(\\frac{343}{4}\\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2024_AUG_M2_Q15",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\qquad p(x)=2x^2+20x+15 \\newline \\) What is the minimum value of the given function?",
+    "options": [
+      "A. -35",
+      "B. -15",
+      "C. -5",
+      "D. 15"
+    ],
+    "answer": "A"
+  },
+    {
+    "id": "SAT_2024_AUG_M2_Q16",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 5,
+    "type": "MCQ",
+    "text": "\\( \\newline 5x+7y=8 \\newline 30x+42y=48 \\newline \\) For each real number \\(r\\), which of the following points lies on the graph of each equation in the \\(xy\\)-plane for the given system?",
+    "options": [
+      "A. \\( (r,-\\frac{5r}{7}+\\frac{8}{7}) \\)",
+      "B. \\( (-\\frac{5r}{7}+\\frac{8}{7},r) \\)",
+      "C. \\( (-\\frac{5r}{7}+8,\\frac{5r}{7}+48) \\)",
+      "D. \\( (\\frac{r}{6}+8,-\\frac{r}{6}+48) \\)"
+    ],
+    "answer": "A"
+  },
+     {
+    "id": "SAT_2024_AUG_M2_Q17",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "The length of each edge of a box is 94 centimeters.  Each side of the box is in the shape of a square.  The box does not have a lid.  What is the exterior surface area, in square \\(\\underline{\\text{meters}}\\), of this box without a lid? \\(\\newline\\) (1 meter = 100 centimeters)",
+    "answer": "4.418"
+  },
+      {
+    "id": "SAT_2024_AUG_M2_Q18",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Geometry",
+    "subtopic": "Trigonometry",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "\\( \\qquad 2\\cos(90-a)^{\\circ} \\cdot \\cos b^{\\circ}+\\sin(a+y)^{\\circ} \\cdot \\sin(90-b)^{\\circ} \\newline \\) In the given expression, \\(a\\) and \\(b\\) are constants such that \\(\\sin a^{\\circ}=0.50\\) and \\(\\cos b^{\\circ}=0.99\\), and \\(0 \\lt b \\lt 90 \\).  What is the value of the given expression when \\(y=0\\)?",
+    "answer": "1.485"
+  },
+      {
+    "id": "SAT_2024_AUG_M2_Q19",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Scatterplots",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "The scatterplot shows the relationship between two variables \\(x\\) and \\(y\\), for data set P.  A line of best fit for data is also shown.  Data set Q is created by adding 540 units to the value of \\(x\\) for each data point from data set P.  Which of the following could be an equation of a line of best fit for data set Q?",
+    "options": [
+      "A. \\( y=-3+\\frac{35}{1,301}x \\)",
+      "B. \\( y=9+\\frac{1}{131}x \\)",
+      "C. \\( y=18+\\frac{1}{131}x \\)",
+      "D. \\( y=26+\\frac{35}{1,301}x \\)"
+    ],
+    "image": "data/Images/SAT_2024_AUG_M2_Q19_Image.png",
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2024_AUG_M2_Q20",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Discriminant",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "\\( \\qquad \\sqrt{k-x}=57-x \\newline \\)  In the given equation, \\(k\\) is a constant.  The equation has exactly one real solution.  What is the minimum possible value of \\(4k\\)?",
+    "answer": "227"
+  },
+      {
+    "id": "SAT_2024_AUG_M2_Q21",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 5,
+    "type": "FillIn",
+    "text": "The functions \\(f\\) and \\(g\\) are defined by the given equations, where \\(x \\gt 0\\).  Which of the following equations displays, as a constant or coefficient, the maximum value of the function it defines, where \\(x \\geq 0 \\) \\(\\newline \\qquad \\) I.  \\(f(x)=16(1.25)^x+43 \\newline \\qquad \\) II.  \\(g(x)=6(0.75)^x \\)?",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. I and II",
+      "D. Neither I nor II"
+    ],
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2024_AUG_M2_Q22",
+    "paper": {
+      "year": 2024,
+      "month": "August",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Unit Conversion",
+    "difficulty": 5,
+    "type": "MCQ",
+    "text": "An object's speed is increasing at a rate of 12.1 meters per second squared.  What is this rate, in \\(\\underline{\\text{miles per minute squared}}\\), rounded to the nearest tenth? \\( \\newline \\) (Use 1 mile = 1,609 meters.)",
+    "options": [
+      "A. 0.5",
+      "B. 27.1",
+      "C. 133",
+      "D. 324.5"
+    ],
+    "answer": "B"
+  },
+  
    {
     "id": "SAT_2025_JUNE_M1_Q1",
     "paper": {
@@ -862,7 +1773,7 @@
     "image": "data/Images/SAT_2025_JUNE_M1_Q1_Image.png",
     "answer": "D"
   },
-
+  
     {
     "id": "SAT_2025_JUNE_M1_Q2",
     "paper": {
