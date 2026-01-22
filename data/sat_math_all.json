@@ -3601,6 +3601,939 @@
     "answer": "B"
   },
 
+  {
+    "id": "SAT_2025_NOV_M1_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "If \\( 9x+4=67\\), what is the value of \\( 90x+40 \\)?",
+    "options": [
+      "A. 7",
+      "B. 70",
+      "C. 130",
+      "D. 670"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_NOV_M1_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Angles",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "In the figure, line \\(p\\) is parallel to line \\(r\\), and line \\(t\\) intersects both lines.  What is the value of \\(x\\)?",
+    "options": [
+      "A. 36",
+      "B. 72",
+      "C. 180",
+      "D. 252"
+    ],
+    "image": "data/Images/SAT_2025_NOV_M1_Q2_Image.png",
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_NOV_M1_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Unit Conversions",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "A length of 450 meters is equal to how many decimeters? (1 meter = 10 decimeters)",
+    "answer": "4500"
+  },
+  {
+    "id": "SAT_2025_NOV_M1_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "The equation \\(58=2x+2y\\) gives the perimeter of a rectangular garden that has length \\(x\\), in feet, and width \\(y\\), in feet.  The width of the garden is 14 feet.  What is the length, in feet, of the garden?",
+    "answer": "15"
+  },
+      {
+    "id": "SAT_2025_NOV_M1_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The relationship between the variables \\(x\\) and \\(y\\) is defined by an exponential equation.  When \\(x=0\\), the value of \\(y\\) is 40, and for every increase in the value of \\(x\\) by 1, the corresponding value of \\(y\\) increases by 50% of its previous value.  Which equation represents this relationship?",
+    "options": [
+      "A. \\(y=40(1.50)^x\\)",
+      "B. \\(y=40(1.05)^x\\)",
+      "C. \\(y=50(1.40)^x\\)",
+      "D. \\(y=50(1.04)^x\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_NOV_M1_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by \\(f(x)=\\frac{1}{8x}\\).  What is the value of \\(f(x)\\) when \\(x=9\\)?",
+    "answer": "1/72"
+  },
+      {
+    "id": "SAT_2025_NOV_M1_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The function \\(f\\) is defined by \\(f(x)=3x-\\frac{1}{4}\\).  What is the \\(y\\)-intercept of the graph of \\(y=f(x)\\) in the \\(xy\\)-plane?",
+    "options": [
+      "A. \\((0,-\\frac{1}{4})\\)",
+      "B. \\((0,-3)\\)",
+      "C. \\((0,3)\\)",
+      "D. \\((0,4)\\)"
+    ],
+    "answer": "A"
+  },
+     {
+    "id": "SAT_2025_NOV_M1_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Equations",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "\\( \\newline \\qquad x+6y=28 \\newline \\qquad 6y=14 \\newline \\) The solution to the given system of equations is \\((x,y)\\).  What is the value of \\(x\\)?",
+       "answer": "14"
+  },
+      {
+    "id": "SAT_2025_NOV_M1_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The length of a side of square X is 9 centimeters.  The area of rectangle Y is 32 square centimeters.  What is the total area, in square centimeters, of square X and rectangle Y?",
+    "options": [
+      "A. 145",
+      "B. 113",
+      "C. 82",
+      "D. 81"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_NOV_M1_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Ratio, Rates and Proportions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "During hibernation, American black bears do not eat or replenish calories.  A certain black bear weighed 293 pounds when entering hibernation and lost weight at a mean rate of 0.9 pounds per day.  At this rate, how many days after entering hibernation would the black bear weigh 230 pounds?",
+    "options": [
+      "A. 57",
+      "B. 63",
+      "C. 70",
+      "D. 207"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_NOV_M1_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The complete graph of \\(y=f(x)\\) is shown.  For how many values of \\(x\\) does \\(f(x)=0\\)?",
+    "options": [
+      "A. One",
+      "B. Two",
+      "C. Three",
+      "D. Four"
+    ],
+    "image": "data/Images/SAT_2025_NOV_M1_Q11_Image.png",
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_NOV_M1_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Maths",
+    "subtopic": "Rearranging Formula",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\qquad b^2+4c=7d \\newline \\) The given expression relates the real numbers \\(b, c,\\) and \\(d\\), where \\(d \\gt \\frac{4}{7}c\\).  Which equation correctly expresses \\(b\\) in terms of \\(c\\) and \\(d\\)?",
+    "options": [
+      "A. \\(b=\\frac{7d+4c}{2} \\)",
+      "B. \\(b=\\frac{7d-4c}{2} \\)",
+      "C. \\(b=\\pm \\sqrt{7d+4c} \\)",
+      "D. \\(b=\\pm \\sqrt{7d-4c} \\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_NOV_M1_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\qquad x^2-\\frac{81}{16}=0 \\newline \\)  How many distinct real solutions does the given equation have?",
+    "options": [
+      "A. Zero",
+      "B. Exactly one",
+      "C. Exactly two",
+      "D. Infinitely many"
+    ],
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2025_NOV_M1_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Triangles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Triangles \\(ABC\\) and \\(A'B'C'\\) are shown.  Triangle \\(ABC\\) is dilated by a scale factor of 6 to form triangle \\(A'B'C'\\).  If the length of \\(AB\\) is 18, what is the length of \\(A'B'\\)?",
+    "options": [
+      "A. 3",
+      "B. 6",
+      "C. 24",
+      "D. 108"
+    ],
+    "image": "data/Images/SAT_2025_NOV_M1_Q14_Image.png",
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_NOV_M1_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Equation of Circles",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "What is the radius of the circle in the \\(xy\\)-plane defined by \\((x+3)^2+(y+9)^2=361\\)?",
+    "answer": "19"
+  },
+       {
+    "id": "SAT_2025_NOV_M1_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In the \\(xy\\)-plane, which of the following does NOT contain any points that are part of the solution set to \\(5x-7y \\gt 35\\)?",
+    "options": [
+      "A. The \\(x\\)-axis",
+      "B. The region where \\(x \\gt 0\\) and \\(y \\gt 0\\)",
+      "C. The region where \\(x \\lt 0\\) and \\(y \\lt 0\\)",
+      "D. The region where \\(x \\lt 0\\) and \\(y \\gt 0\\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_NOV_M1_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Probability",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The table shows the distribution of people in a certain city by age group.  If a person in this city is selected at random, which of the following is closest to the probability of selecting a person who is greater than 65 years old, given that the person is at least 18 years old?",
+    "options": [
+      "A. 0.24",
+      "B. 0.32",
+      "C. 0.52",
+      "D. 0.92"
+    ],
+    "table_data": [
+        {"Age group": "Less than 18 years old", "Proportion": "26%"},
+        {"Age group": "18-40 years old", "Proportion": "21%"},
+        {"Age group": "41-65 years old", "Proportion": "29%"},
+        {"Age group": "Greater than 65 years old", "Proportion": "24%"}
+    ],
+    "answer": "B"
+  },
+       {
+    "id": "SAT_2025_NOV_M1_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Line \\(h\\) is defined by \\(\\frac{1}{2}x+\\frac{1}{9}y-54=0\\).  Line \\(j\\) is perpendicular to line \\(h\\) in the \\(xy\\)-plane.  What is the slope of line \\(j\\)?",
+    "options": [
+      "A. \\(-\\frac{9}{2}\\)",
+      "B. \\(-\\frac{2}{9}\\)",
+      "C. \\(\\frac{9}{2}\\)",
+      "D. \\(\\frac{2}{9}\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_NOV_M1_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Descriptive Statistics",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\(\\qquad a,26,29,b,31,47,c \\newline \\)For the given data set, the data values are listed in ascending order, where \\(a,b,\\) and \\(c\\) are constants.  For this data set, the mean is 36, the median is 29, and the range is 72.  What is the value of \\(c\\)?",
+    "options": [
+      "A. 54",
+      "B. 72",
+      "C. 81",
+      "D. 98"
+    ],
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2025_NOV_M1_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Trigonometry",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In triangle \\(QRS\\) shown, \\(QR \\lt RS\\).  Which expression represents the length of \\(QS\\)?",
+    "options": [
+      "A. \\( 37\\cos Q \\)",
+      "B. \\( 37\\sin Q \\)",
+      "C. \\( \\frac{37}{\\cos Q}\\)",
+      "D. \\( \\frac{37}{\\sin Q}\\)"
+    ],
+    "image": "data/Images/SAT_2025_NOV_M1_Q20_Image.png",
+    "answer": "D"
+  },
+    {
+  "id": "SAT_2025_NOV_M1_Q21",
+  "paper": {
+    "year": 2025,
+    "month": "November",
+    "module": 1,
+    "questionNumber": 21
+  },
+  "section": "Math",
+  "topic": "Advanced Math",
+  "subtopic": "Nonlinear Functions",
+  "difficulty": 4,
+  "type": "MCQ",
+  "text": "\\( \\qquad y=9(\\frac{a}{7})^{x+c}-b \\newline \\) How many times does the graph of the given equation in the \\(xy\\)-plane cross the \\(x\\)-axis, where \\(a,b,\\) and \\(c\\) are positive constants such that \\(a \\gt 7\\) and \\(b \\gt c\\)?",
+  "options": [
+      "A. Zero",
+      "B. One",
+      "C. Two",
+      "D. Three"
+    ],
+  "answer": "B"
+},
+  {
+    "id": "SAT_2025_NOV_M1_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Unit Conversions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "A certain town has an area of 4.29 square miles.  What is the area, in square yards, of this town? \\(\\newline\\)(1 mile = 1,760 yards)",
+    "options": [
+      "A. 410",
+      "B. 7,550",
+      "C. 722,051",
+      "D. 13,288,704"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "What is 50% of 480?",
+    "options": [
+      "A. 720",
+      "B. 480",
+      "C. 240",
+      "D. 48"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "SAT_2025_NOV_M2_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A biologist is studying the growth of a sunflower plant.  The graph models the height y, in centimeters, of the sunflower plant after x weeks of observation.  According to the model, what is the estimated height, in centimeters, of the sunflower plant after 3 weeks of observation?",
+    "options": [
+      "A. 3",
+      "B. 10",
+      "C. 30",
+      "D. 60"
+    ],
+    "image": "data/Images/SAT_2025_NOV_M2_Q2_Image.png",
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "For a psychology class, a student’s research paper needs to have no more than 5,000 words.  If a student has already written 3,051 words, what is the maximum number of additional words the student can write for the research paper?",
+    "options": [
+      "A. 8,051",
+      "B. 5,000",
+      "C. 3,051",
+      "D. 1,949"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_NOV_M2_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "During a 6-day period, a weather station recorded a total of 2.6 inches of rain and snow.  During this period, the weather station recorded \\(r\\) inches of rain and \\(s\\) inches of snow.  Which equation represents this situation?",
+    "options": [
+      "A. \\(r+s=2.6\\)",
+      "B. \\(r-s=2.6\\)",
+      "C. \\(s-r=2.6\\)",
+      "D. \\(rs=2.6\\)"
+    ],
+    "answer": "A"
+  },
+    {
+    "id": "SAT_2025_NOV_M2_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\( \\qquad y=5x+17 \\newline \\)  One of the two equations in a system of linear equations is given.  The system has infinitely many solutions.  If the second equation in this system is \\(y=mx+b\\), where m and \\(b\\) are constants, what is the value of \\(b\\)?",
+    "answer": "17"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "What value of \\(p\\) is the solution to the equation \\(p-17=1\\)?",
+    "options": [
+      "A. \\( \\frac{1}{17} \\)",
+      "B. \\( 16 \\)",
+      "C. \\( 17 \\)",
+      "D. \\( 18 \\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_NOV_M2_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The equation \\(d=25w+100\\) gives the total amount of money \\(d\\), in dollars, that Janna plans to save \\(w\\) weeks after she starts to save.  What is the total amount of money, in dollars, she plans to save in 10 weeks?",
+    "options": [
+      "A. 300",
+      "B. 350",
+      "C. 400",
+      "D. 450"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Unit Conversions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A triathlon is a multisport race consisting of three different consecutive events.  A triathlon participant plans to complete the cycling event with an average speed of 28,512 yards per hour.  What is this average speed, in miles per hour? \\( \\newline \\)(1 mile = 1,760 yards)",
+    "answer": "16.2"
+  },
+    {
+    "id": "SAT_2025_NOV_M2_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Trigonometry",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Triangle \\(ABC\\) is similar to triangle \\(DEF\\), where angle \\(A\\) corresponds to angle \\(D\\) and angles \\(C\\) and \\(F\\) are right angles.  If \\( \\cos{B}=\\frac{1}{24} \\), what is the value of \\( \\cos{E}\\)?",
+    "options": [
+      "A. \\( \\frac{1}{24} \\)",
+      "B. \\( \\frac{1}{25} \\)",
+      "C. \\( \\frac{23}{24} \\)",
+      "D. \\( \\frac{24}{25} \\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_November_M2_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Interpreting Informations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "For a project, Kayla recorded the heights of 17 people in her neighborhood.  The histogram summarizes the heights, in inches (in), of these 17 people in Kayla’s neighborhood.  The first bar represents people with a height of at least 50 in but less than 53 in.  The second bar represents people with a height of at least 53 in but less than 56 in, and so on.  How many of these 17 people in Kayla’s neighborhood had a height of at least 50 in but less than 56 in?",
+     "image": "data/Images/SAT_2025_NOV_M2_Q10_Image.png",
+     "answer": "6"
+  },
+      {
+    "id": "SAT_2025_November_M2_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "The table shows values of \\(x\\) and their corresponding values of \\(y\\) for three points on line \\(j\\) in the \\(xy\\)-plane.",
+     "options": [
+      "A. \\( (5,20) \\)",
+      "B. \\( (5,-44) \\)",
+      "C. \\( (6,24) \\)",
+      "D. \\( (6,26) \\)"
+    ],
+     "table_data": [
+        {"\\(x\\)": 0, "\\(y\\)": -10},
+        {"\\(x\\)": 1, "\\(y\\)": -4},
+        {"\\(x\\)": 2, "\\(y\\)": 2}
+    ],
+     "answer": "A"
+  },
+     {
+    "id": "SAT_2025_NOV_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Scatterplots",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The scatterplot shows the relationship between the square footage of 12 clothing stores and their annual sales, in millions of dollars.  According to the trend shown by the data, which of the following is the best prediction for the annual sales, in millions of dollars, of a clothing store that is 4 thousand square feet?",
+    "options": [
+      "A. 4.1",
+      "B. 5.4",
+      "C. 7.5",
+      "D. 10.1"
+    ],
+    "image": "data/Images/SAT_2025_NOV_M2_Q12_Image.png",
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Angles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "In triangle \\(FGH\\), the measure of \\( \\angle F\\) and \\( \\angle G\\) are each \\(53^{\\circ}\\).  What is the measure of \\( \\angle H\\)? ",
+    "options": [
+      "A. \\(143^{\\circ}\\)",
+      "B. \\(127^{\\circ}\\)",
+      "C. \\(106^{\\circ}\\)",
+      "D. \\(74^{\\circ}\\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_NOV_M2_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\( 7xy(2x^2+9y)\\)?",
+    "options": [
+      "A. \\( 9x^3y+16xy^2\\)",
+      "B. \\( 9x^2y+16xy\\)",
+      "C. \\( 14x^2y+63xy\\)",
+      "D. \\( 14x^3y+63xy^2\\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_NOV_M2_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\( \\qquad \\frac{27(k+5)}{3(k+5)} \\newline \\) The given expression is equivalent to \\(c\\), where \\(c\\) is a constant and \\(k \\gt -5\\).  What is the value of \\(c\\)?",
+    "answer": "9"
+  },
+     {
+    "id": "SAT_2025_NOV_M2_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The graph of \\(y=(\\frac{1}{9})^x+1\\) in the \\(xy\\)-plane is shifted up 4 units.  What is an equation of the resulting graph?",
+    "options": [
+      "A. \\( y=(\\frac{1}{9})^{x+4}+1 \\)",
+      "B. \\( y=(\\frac{1}{9})^{x-4}+1 \\)",
+      "C. \\( y=4(\\frac{1}{9})^{x}+1 \\)",
+      "D. \\( y=(\\frac{1}{9})^{x}+5 \\)"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_NOV_M2_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The function \\(f(x)=1,200(0.5)^{\\frac{x}{17}}\\) gives the predicted intensity of a beam \\(f(x)\\), in number of photons in the beam, \\(x\\) millimeters below the surface of a certain material. What is the best interpretation of \\(f(17)=600\\)?",
+    "options": [
+      "A. A beam at the surface of the material has a predicted intensity of 17 photons in the beam.",
+      "B. A beam at the surface of the material has a predicted intensity of 600 photons in the beam.",
+      "C. A beam 17 millimeters below the surface of the material has a predicted intensity of 600 photons in the beam.",
+      "D. A beam 600 millimeters below the surface of the material has a predicted intensity of 1,200 photons in the beam."
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Discriminants",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\qquad x^2+(\\sqrt{k-3})x+42=0 \\newline \\)  In the given equation, \\(k\\) is a constant.  The equation has exactly one real solution.  What is the value of \\(k\\)?",
+    "options": [
+      "A. 171",
+      "B. 168",
+      "C. 165",
+      "D. 45"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In the \\(xy\\)-plane, the graph of \\(y=4x\\) intersects the graph of \\(y=x^2-45\\) at two points.  What is the sum of the \\(x\\)-coordinates of the two points of intersection?",
+    "options": [
+      "A. \\(-45\\)",
+      "B. \\(-5\\)",
+      "C. \\(4\\)",
+      "D. \\(9\\)"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "For the linear function \\(h\\), \\(h(0)=0\\) and \\(h(4)=3\\).  Which equation defines \\(h\\)?",
+    "options": [
+      "A. \\( h(x)=\\frac{4}{3}x \\)",
+      "B. \\( h(x)=\\frac{4}{3}x+4 \\)",
+      "C. \\( h(x)=\\frac{3}{4}x \\)",
+      "D. \\( h(x)=\\frac{3}{4}x+3 \\)"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_NOV_M2_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\qquad (x-16)(x-12)(x+9)(x+19)=0 \\newline \\)  Which of the following is a positive solution to the given equation?",
+    "options": [
+      "A. \\(-19\\)",
+      "B. \\(-16\\)",
+      "C. \\(9\\)",
+      "D. \\(12\\)"
+    ],
+    "answer": "D"
+  },
+    {
+    "id": "SAT_2025_NOV_M2_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "November",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\qquad x^2-2x=28 \\newline \\) What is one of the solutions to the given equation?",
+    "options": [
+      "A. \\( \\sqrt{28} \\)",
+      "B. \\( 1+\\sqrt{29} \\)",
+      "C. \\( 29 \\)",
+      "D. \\( 28+\\sqrt{2} \\)"
+    ],
+    "answer": "B"
+  },
+
 {
     "id": "SAT_2025_DEC_M1_Q1",
     "paper": {
