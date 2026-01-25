@@ -4533,6 +4533,919 @@
     ],
     "answer": "B"
   },
+  {
+    "id": "SAT_2025_NOVV2_M1_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The function \\(g\\) is defined by \\(g(x)=4x+2\\).  What is the value of \\(g(x)\\) when \\(x=2\\)?",
+    "options": [
+      "A. 0",
+      "B. 2",
+      "C. 4",
+      "D. 10"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M1_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Ratio, Rates and Proportions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "An event planner is planning an ice-skating event.  It costs the event planner a onetime fee of $35 to rent the skating rink and $15.25 per attendee.  The event planner has a budget of $225.  What is the greatest number of attendees possible without exceeding the budget?",
+    "answer": "12"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M1_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Factoring",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(42x^3+7x\\)?",
+    "options": [
+      "A. \\(7x(6+7x)\\)",
+      "B. \\(7x(6x^2+1)\\)",
+      "C. \\(7x^2(6+7x)\\)",
+      "D. \\(7x^2(6x+1)\\)"
+    ],
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2025_NOVV2_M1_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Ratio, Rates and Proportions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "For a certain rectangle, the ratio of the width to the length is 1 to 2.  If the width of the rectangle is 67 centimeters, what is the length, in centimeters, of the rectangle?",
+    "answer": "134"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M1_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Scatterplots",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The scatterplot shows the relationship between the square footage of 12 clothing stores and their annual sales, in millions of dollars. According to the trend shown by the data, which of the following is the best prediction for the annual sales, in millions of dollars, of a clothing store that is 4 thousand square feet?",
+    "options": [
+      "A. 4.1",
+      "B. 5.4",
+      "C. 7.5",
+      "D. 10.2"
+    ],
+    "image": "data/Images/SAT_2025_NOVV2_M1_Q5_Image.png",
+    "answer": "C"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\(\\qquad y=2,600(a)^x \\newline \\) The given equation, where a is a positive constant, gives the predicted number of bacteria, \\(y\\), in a growth medium \\(x\\) hours after the number of bacteria was initially measured.  According to the equation, what was the predicted number of bacteria initially measured in the growth medium?",
+    "answer": "2600"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "If \\(6x-8=4\\), what is the value of \\(6x+8\\)?",
+    "options": [
+      "A. \\(-4\\)",
+      "B. \\(2\\)",
+      "C. \\(10\\)",
+      "D. \\(20\\)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "SAT_2025_NOVV2_M1_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "A number \\(f\\) is 120% greater than a positive number \\(g\\).  A number \\(h\\) is 90% less than the number \\(f\\).  The number \\(h\\) is how many times the number \\(g\\)?",
+    "options": [
+      "A. 0.12",
+      "B. 0.22",
+      "C. 1.08",
+      "D. 1.98"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A certain university’s research farm is 1,000 acres, of which 71 acres contain rice.  What percentage of the acres of this research farm contain rice?",
+    "options": [
+      "A. 0.71%",
+      "B. 7.1%",
+      "C. 71%",
+      "D. 710%"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M1_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Trigonometry",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "In the right triangles shown, \\(a,b,\\) and \\(c\\) are positive constants.  For an acute angle \\(D\\), \\(\\sin{D}=\\frac{b}{c}\\).  What is the measure of angle \\(D\\), in degrees?",
+    "image": "data/Images/SAT_2025_NOVV2_M1_Q10_Image.png",
+    "answer": "32"
+  },
+    {
+    "id": "SAT_2025_NOVV2_M1_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Angles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "In the figure shown, lines \\(l\\) and \\(k\\) are parallel and line \\(t\\) intersects both lines.  If \\(x \\gt 134\\), which of the following must be true?",
+    "options": [
+      "A. \\(y \\lt 46\\)",
+      "B. \\(y \\gt 46\\)",
+      "C. \\(x+y \\lt 180\\)",
+      "D. \\(x+y \\gt 180\\)"
+    ],
+    "image": "data/Images/SAT_2025_NOVV2_M1_Q11_Image.png",
+    "answer": "A"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Line \\(t\\) in the \\(xy\\)-plane has a slope of \\(\\frac{1}{8}\\) and passes through the point \\((32,-7)\\).  Which equation defines line \\(t\\)?",
+    "options": [
+      "A. \\(y=-11x+\\frac{1}{8} \\)",
+      "B. \\(y=\\frac{x}{8}-11 \\)",
+      "C. \\(y=\\frac{x}{8}-7 \\)",
+      "D. \\(y=32x-7 \\)"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The graph of the function \\(f\\), where \\(y=f(x)\\), gives the total cost \\(y\\), in dollars, for a certain video game system and \\(x\\) games.  What is the best interpretation of the slope of the graph in this context?",
+    "options": [
+      "A. Each game costs $16",
+      "B. The video game system costs $16",
+      "C. Each game costs $50",
+      "D. The video game system costs $50"
+    ],
+    "image": "data/Images/SAT_2025_NOVV2_M1_Q13_Image.png",
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M1_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Equation of Circles",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "What is the radius of the circle in the \\(xy\\)-plane defined by \\((x+y)^2+(y+6)^2=361\\)?",
+    "answer": "19"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(\\newline x^2+y^2=1,088 \\newline y-4x=0 \\newline \\) A solution to the given system of equations is \\((x,y)\\), where \\(x \\lt 0\\).  What is the value of \\(y\\)?",
+    "options": [
+      "A. \\(-256\\)",
+      "B. \\(-32\\)",
+      "C. \\(-8\\)",
+      "D. \\(-4\\)"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(\\qquad f(x)=10(x^2+47) \\newline\\) What is the minimum value of the given function?",
+    "options": [
+      "A. 0.1",
+      "B. 4.7",
+      "C. 10",
+      "D. 470"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M1_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "The function \\(j\\) is defined by \\(j(x)=\\frac{10x+5}{3p}\\), and the function \\(k\\) is defined by \\(k(x)=\\frac{j(x)\\cdot p}{x+1}\\), where \\(p\\) is a positive constant.  What is the value of \\(k(9)\\)?",
+    "options": [
+      "A. \\(\\frac{19}{6}\\)",
+      "B. \\(\\frac{10}{3}\\)",
+      "C. \\(\\frac{95}{13}\\)",
+      "D. \\(\\frac{85}{3}\\)"
+    ],
+        "answer": "A"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In the \\(xy\\)-plane, which of the following does NOT contain any points that are part of the solution set to \\(7x-6y \\gt 42\\)?",
+    "options": [
+      "A. The \\(x\\)-axis",
+      "B. The region where \\(x \\gt 0\\) and \\(y \\gt 0\\)",
+      "C. The region where \\(x \\lt 0\\) and \\(y \\lt 0\\)",
+      "D. The region where \\(x \\lt 0\\) and \\(y \\gt 0\\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\(\\newline 3x+2y=10 \\newline 18x+12y=60 \\newline \\) How many solutions does the given system of equations have?",
+    "options": [
+      "A. Exactly one",
+      "B. Exactly two",
+      "C. Infinitely many",
+      "D. Zero"
+    ],
+    "answer": "C"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M1_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\qquad \\frac{|4x-48|+4}{8}=6 \\newline \\) What is the sum of the solutions to the given equation?",
+    "options": [
+      "A. 1",
+      "B. 23",
+      "C. 24",
+      "D. 48"
+    ],
+    "answer": "C"
+  },
+    {
+  "id": "SAT_2025_NOVV2_M1_Q21",
+  "paper": {
+    "year": 2025,
+    "month": "November V2",
+    "module": 1,
+    "questionNumber": 21
+  },
+  "section": "Math",
+  "topic": "Algebra",
+  "subtopic": "Interpreting Linear Models",
+  "difficulty": 4,
+  "type": "MCQ",
+  "text": "A beekeeper’s initial observation of the population of a certain bee colony was 1,600 bees.  The beekeeper set a goal to increase the population to 2,975 bees. The beekeeper uses a model that predicts the population of this bee colony begins at 1,600 and increases by 110 bees per week in the first two weeks after the initial observation, and then increases by 165 bees per week until the beekeeper’s goal is reached. According to this model, at the end of \\(w\\) week after the initial observation, where \\(w \\geq 2\\), which of the following functions gives the predicted number of bees still needed to reach the beekeeper’s goal?",
+  "options": [
+      "A. \\(p(w)=-110+65w\\)",
+      "B. \\(p(w)=1,485-165w\\)",
+      "C. \\(p(w)=2,865+165w\\)",
+      "D. \\(p(w)=2,975-165w\\)"
+    ],
+  "answer": "B"
+},
+  {
+    "id": "SAT_2025_NOVV2_M1_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The quadratic equation \\((2x-64)^2=a\\), where \\(a\\) is a constant, has exactly one real solution.  What is the value of \\(a\\)?",
+    "answer": "0"
+  },
+        {
+    "id": "SAT_2025_NOVV2_M2_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The equation \\(d=20w+100\\) gives the total amount of money \\(d\\), in dollars, that Janna plans to save \\(w\\) weeks after she starts to save.  What is the total amount of money, in dollars, she plans to save in 10 weeks?",
+    "options": [
+      "A. 250",
+      "B. 300",
+      "C. 350",
+      "D. 400"
+    ],
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2025_NOVV2_M2_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "\\( \\newline x+2y=28 \\newline 2y=15 \\newline \\) The solution to the given system of equations is \\((x,y)\\).  What is the value of \\(x\\)?",
+    "answer": "13"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Rearranging Formula",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\qquad b^2+5c=6d \\newline \\) The given equation relates the real numbers \\(b, c, \\) and \\(d\\), where \\(d \\gt \\frac{5}{6}c\\).  Which equation correctly expresses \\(b\\) in terms of \\(c\\) and \\(d\\)?",
+    "options": [
+      "A. \\(b=\\frac{6d-5c}{2}\\)",
+      "B. \\(b=\\frac{6d+5c}{2}\\)",
+      "C. \\(b=\\pm\\sqrt{6d-5c}\\)",
+      "D. \\(b=\\pm\\sqrt{6d+5c}\\)"
+    ],
+    "answer": "C"
+  },
+       {
+    "id": "SAT_2025_NOVV2_M2_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The area of triangle \\(ABC\\) is 210 square centimeters.  What is the height \\(h\\), in centimeters, of this triangle?",
+    "options": [
+      "A. 10",
+      "B. 21",
+      "C. 42",
+      "D. 84"
+    ],
+    "image": "data/Images/SAT_2025_NOVV2_M2_Q4_Image.png",
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Function Transformations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\qquad g(x)=2(14x-15) \\newline \\)  What is the \\(y\\)-coordinate of the \\(y\\)-intercept of the graph of \\(y=g(x)-5\\) in the \\(xy\\)-plane?",
+    "options": [
+      "A. \\( -35 \\)",
+      "B. \\( -30 \\)",
+      "C. \\( -20 \\)",
+      "D. \\( -15 \\)"
+    ],
+    "answer": "A"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M2_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Probability",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The table shows the distribution of people in a certain city by age group.  If a person in this city is selected at random, which of the following is closest to the probability of selecting a person who is greater than 65 years old, given that the person is at least 18 years old?",
+    "options": [
+      "A. 0.26",
+      "B. 0.36",
+      "C. 0.46",
+      "D. 0.93"
+    ],
+    "table_data": [
+        {"Age group": "Less than 18 years old", "Proportion": "28%"},
+        {"Age group": "18-40 years old", "Proportion": "24%"},
+        {"Age group": "41-65 years old", "Proportion": "22%"},
+        {"Age group": "Greater than 65 years old", "Proportion": "26%"}
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Interpreting Quadratic Models",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\qquad h(t)=-16t^2+b \\newline \\) The function \\(h\\) estimates an object's height, in feet, above the ground \\(t\\) seconds after the object is dropped, where \\(b\\) is a constant. The function estimates that the object is 23.04 feet above the ground when it is dropped at \\(t=0\\).  How many seconds after being dropped does the function estimate the object will hit the ground?",
+    "answer": "1.2"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Area and Perimeter",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The length of a rectangle’s diagonal is \\(\\sqrt{106}\\), and the length of one of the rectangle’s side is 9.  What is the perimeter of the rectangle?",
+    "options": [
+      "A. 106",
+      "B. 45",
+      "C. 28",
+      "D. 14"
+    ],
+    "answer": "C"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M2_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Equation of Circles",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\(\\newline \\text{Circle A:} \\quad (x-7)^2+(y-p)^2=21 \\newline \\text{Circle B:} \\quad (x+7)^2+(y-p)^2=21 \\newline \\) In the given equations, \\(p\\) is a positive constant.  Which statement correctly compares the graphs of circles A and B in the \\(xy\\)-plane?",
+    "options": [
+      "A. Circle B is the reflection of circle A across the \\(x\\)-axis.",
+      "B. Circle B is the reflection of circle A across the \\(y\\)-axis.",
+      "C. Circle B is the translation of circle A 14 units up.",
+      "D. Circle B is the translation of circle A 14 to the right."
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M2_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\qquad a(9-x)=36-4x \\newline \\) In the given equation, \\(a\\) is a constant.  The equation has exactly one solution.  Which of the following CANNOT be the value of \\(a\\)?",
+     "options": [
+      "A. 1",
+      "B. 4",
+      "C. 9",
+      "D. 36"
+    ],
+     "answer": "B"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Descriptive Statistics",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\(\\qquad a, 26, 29, b, 33, 49, c \\newline \\) For the given data set, the data values are listed in ascending order, where \\(a,b,\\) and \\(c\\) are constants.  For this data set, the mean is 36, the median is 29, and the range is 72.  What is the value of \\(c\\)?",
+     "options": [
+      "A. 53",
+      "B. 72",
+      "C. 79",
+      "D. 98"
+    ],
+     "answer": "C"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\( \\qquad y=3(\\frac{a}{6})^{x+c}-b \\newline \\) How many times does the graph of the given equation in the \\(xy\\)-plane cross the \\(x\\)-axis, where \\(a,b,\\) and \\(c\\) are positive constants such that \\(a \\gt 6\\) and \\( b \\gt c\\)?",
+    "options": [
+      "A. Zero",
+      "B. One",
+      "C. Two",
+      "D. Three"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A linear function \\(g\\) is defined by \\(g(x)=ax+b\\), where \\(a\\) and \\(b\\) are constants.  If \\(g(-2)=-7\\) and \\(g(1)=5\\), what is the value of \\(a\\)?",
+    "answer": "4"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M2_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\qquad 2x^2-8x-21=0 \\newline \\) One solution to the given equation can be written as \\(x=h-\\frac{1}{2}\\sqrt{k}\\), where \\(h\\) and \\(k\\) are integer constants.  What is the value of \\(h+k\\)?",
+    "options": [
+      "A. \\( -24 \\)",
+      "B. \\( 10 \\)",
+      "C. \\( 29 \\)",
+      "D. \\( 60 \\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "\\( \\newline r(x)=9(x-3) \\newline s(x)=x^3+nx^2+3nx+27 \\newline \\) For the given functions \\(r\\) and \\(s\\), \\(n\\) is a constant.  If \\(r(x) \\cdot s(x)=9(x^4-81)\\), what is the value of \\(n\\)?",
+    "answer": "3"
+  },
+     {
+    "id": "SAT_2025_NOVV2_M2_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "At different times on a certain day, a manager at a theme park recorded the number of visitors. An exponential model gives the estimated number of visitors, \\(V\\), at the theme park \\(t\\) hours after the theme park opened, where \\(t \\leq 3\\).  Based on the model, 85 visitors were estimated to be at the theme park when it opened, and every 30 minutes the estimated number of visitors increased by 140% of the estimated number of visitors 30 minutes earlier. Which of the following equations best represents this model?",
+    "options": [
+      "A. \\( y=85(1.40)^{\\frac{t}{30}} \\)",
+      "B. \\( y=85(1.40)^{2t} \\)",
+      "C. \\( y=85(2.40)^{\\frac{t}{30}} \\)",
+      "D. \\( y=85(2.40)^{2t} \\)"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "The function \\(v\\) is defined by the equation \\( v(x)=\\frac{x^2+bx+c}{(x+5)(x-19)}\\), where \\(b\\) and \\(c\\) are constants.  In the \\(xy\\)-plane, the graph of \\(y=v(x)\\) passes through the points \\( (0,\\frac{66}{95})\\) and \\((11,0)\\).  If \\(v(q)=0\\), which of the following could be the value of \\(q\\)?",
+    "options": [
+      "A. \\(-6\\)",
+      "B. \\(-5\\)",
+      "C. \\(5\\)",
+      "D. \\(6\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "Line \\(s\\) is defined by \\(x-4y=24\\).  Line \\(t\\) is perpendicular to line \\(s\\) in the \\(xy\\)-plane and passes through the points \\((k,0)\\) and \\((60,-k)\\).  What is the value of \\(k\\)?",
+    "answer": "48"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\( \\qquad \\frac{x}{7}+\\frac{y}{5}=\\frac{41}{35} \\newline \\) An engineer connects resistors in series, where the resistors in the series have a total resistance of \\(\\frac{41}{35}\\) ohms.  In this series, there are \\(x\\) resistors of type \\(A\\), which have a resistance of \\(a\\) ohms, and \\(y\\) resistors of type \\(B\\), which each have a resistance of \\(b\\) ohms.  The given equation represents this situation.  According to this equation, what is the positive difference between the value of a and the value of \\(b\\)?",
+    "options": [
+      "A. \\(41\\)",
+      "B. \\(2\\)",
+      "C. \\(\\frac{41}{35}\\)",
+      "D. \\(\\frac{2}{35}\\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 5,
+    "type": "MCQ",
+    "text": "The functions \\(f\\) and \\(g\\) are defined by the given equations, where \\(x \\geq 0\\), \\(a\\) and \\(b\\) are integer constants, \\(a \\lt b\\), and \\(a \\gt 1\\).  If \\(y=f(x)\\) and \\(y=g(x)\\) are graphed in the \\(xy\\)-plane, which of the following equations displays, as a constant or coefficient, the minimum value of the function it defines, where \\(x \\geq 0\\)? \\( \\newline \\qquad\\) I. \\(f(x)=a(0.63)^{-bx} \\newline \\qquad \\) II. \\( g(x)=a(1.37)^{x+2}+b\\)",
+    "options": [
+      "A. I only",
+      "B. II only",
+      "C. I and II",
+      "D. Neither I nor II"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 5,
+    "type": "MCQ",
+    "text": "In triangle \\(XYZ\\), the measure of angle \\(X\\) is \\(x^{\\circ}\\), the measure of angle \\(Y\\) is \\(y^{\\circ}\\), and the measure of angle \\(Z\\) is \\(31^{\\circ}\\).  If \\(x \\gt y \\gt 31\\), which of the following additional pieces of information is NOT sufficient to determine the values of \\(x\\) and \\(y\\)?",
+    "options": [
+      "A. The value of \\(31-x-3y\\)",
+      "B. The value of \\(31+3x+y\\)",
+      "C. The value of \\(31-3x+3y\\)",
+      "D. The value of \\(31-3x-3y\\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_NOVV2_M2_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "November V2",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "In 2013, Chloe earned 11% more than in 2012, and in 2014 Chloe earned 6% more than in 2013.  If Chloe earned \\(y\\) times as much in 2012 as in 2014, which of the following is closest to the value of \\(y\\)?",
+    "options": [
+      "A. 0.5455",
+      "B. 0.6600",
+      "C. 0.8499",
+      "D. 1.1766"
+    ],
+    "answer": "C"
+  },
 
 {
     "id": "SAT_2025_DEC_M1_Q1",
