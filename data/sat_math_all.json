@@ -3600,6 +3600,930 @@
     ],
     "answer": "B"
   },
+  {
+    "id": "SAT_2025_OCT_M1_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Functions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "A quadratic function models the height, in feet, of an object above the ground in terms of the time, in seconds, after the object was launched.  The model estimates that the object was launched from an initial height of 0 feet above the ground and was at a maximum height of 207.36 feet above the ground 3.6 seconds after it was launched.  The model also estimates that the object was at a height of 184.32 feet above the ground \\(x\\) seconds after it was launched. Which of the following is a possible value of \\(x\\)?",
+     "options": [
+      "A. 0",
+      "B. 1.2",
+      "C. 2.4",
+      "D. 3.6"
+    ],
+      "answer": "C"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The function \\(h\\) is defined by \\(h(x)=5(9x-10)\\).  What is the value of \\(h(10)\\)?",
+    "options": [
+      "A. 400",
+      "B. 10",
+      "C. 50",
+      "D. 90"
+    ],
+    "answer": "A"
+  },
+   {
+    "id": "SAT_2025_OCT_M1_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "A pet service that takes care of both cats and dogs can care for at most 43 animals.  Which inequality represents this situation, where \\(c\\) is the number of cats and \\(d\\) is the number of dogs?",
+    "options": [
+      "A. \\(c-d \\leq 43 \\)",
+      "B. \\(c-d \\geq 43 \\)",
+      "C. \\(c+d \\geq 43 \\)",
+      "D. \\(c+d \\leq 43 \\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_OCT_M1_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "\\(\\qquad 9x+17=9x+k \\newline \\) In the given equation, \\(k\\) is a constant.  The equation has infinitely many solutions.  What is the value of \\(k\\)?",
+    "answer": "17"
+  },
+     {
+    "id": "SAT_2025_OCT_M1_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The \\(y\\)-intercept of the graph of \\(y=6(1.85)^x\\) in the \\(xy\\)-plane is \\((0,y)\\).  What is the value of \\(y\\)?",
+    "answer": "6"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The graph of the linear function \\(f\\) is shown, where \\(y=f(x)\\).  What is the slope of the graph of \\(f\\)?",
+    "options": [
+      "A. \\(\\frac{1}{6}\\)",
+      "B. \\(-7\\)",
+      "C. \\(-\\frac{1}{6}\\)",
+      "D. \\(7\\)"
+    ],
+    "image": "data/Images/SAT_2025_OCT_M1_Q6_Image.png",
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Unit Conversions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "A triathlon is a multisport race consisting of three different legs.  A triathlon participant completed the cycling leg with an average speed of 17.7 miles per hour.  What was the average speed, in yards per hour, of the participant during the cycling leg? (1 mile = 1,760 yards)",
+    "answer": "31152"
+  },
+     {
+    "id": "SAT_2025_OCT_M1_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Trigonometry",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "Triangle \\(ABC\\) is similar to triangle \\(DEF\\), where angle \\(A\\) corresponds to angle \\(D\\) angle \\(C\\) corresponds to angle \\(F\\).  Angles \\(C\\) and \\(F\\) are right angles.  If \\( \\tan{A} = \\frac{612}{35}\\), what is the value of \\( \\sin{⁡D}\\)?",
+     "options": [
+      "A. \\(\\frac{612}{613}\\)",
+      "B. \\(\\frac{35}{613}\\)",
+      "C. \\(\\frac{613}{612}\\)",
+      "D. \\(\\frac{613}{35}\\)"
+    ],
+      "answer": "A"
+  },
+        {
+    "id": "SAT_2025_OCT_M1_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The function \\(A(b)=7b^2\\) gives the area of a right triangle, in square centimeters (\\( \\text{cm}^2\\)), if the length of its base is \\(b\\) cm and the length of its height is 14 times the length of its base.  Which of the following is the best interpretation of \\(A(18)=2,268\\)?",
+    "options": [
+      "A. If the length of the base of the triangle is 2,268 cm, then the length of the height of the triangle is 18 cm.",
+      "B. If the length of the base of the triangle is 18 cm, then the length of the height of the triangle is 2,268 cm.",
+      "C. If the length of the base of the triangle is 18 cm, then the area of the triangle is 2,268 \\( \\text{cm}^2\\).",
+      "D. If the length of the base of the triangle is 2,268 cm, then the area of the triangle is 18 \\( \\text{cm}^2\\)."
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\( \\qquad -4(v-9)(v-2)(v+7)=0 \\newline \\) What value of \\(v\\) is a solution to the given equation?",
+    "options": [
+      "A. \\(-2\\)",
+      "B. \\(7\\)",
+      "C. \\(9\\)",
+      "D. \\(-4\\)"
+    ],
+    "answer": "C"
+  },
+    {
+    "id": "SAT_2025_OCT_M1_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Area and Volume",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Circle \\(K\\) has a radius of 8 millimeters (mm).  Circle \\(L\\) has an area of \\(144\\pi\\) (\\(\\text{mm}^2\\)).  What is the total area, in \\(\\text{mm}^2\\), of circles \\(K\\) and \\(L\\)?",
+    "options": [
+      "A. \\(20\\pi\\)",
+      "B. \\(40\\pi\\)",
+      "C. \\(80\\pi\\)",
+      "D. \\(208\\pi\\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\qquad x^2+49x+1=0 \\newline \\) What is one of the solutions to the given equation?",
+    "options": [
+      "A. \\(\\frac{-49+\\sqrt{(49)^2-4(1)(1)}}{2(1)}\\)",
+      "B. \\(\\frac{-49+\\sqrt{(49)^2-4(49)(49)}}{2(49)}\\)",
+      "C. \\(\\frac{-1+\\sqrt{(1)^2-4(1)(49)}}{2(1)}\\)",
+      "D. \\(\\frac{-1+\\sqrt{(1)^2-4(49)(1)}}{2(49)}\\)"
+    ],
+    "answer": "A"
+  },
+     {
+    "id": "SAT_2025_OCT_M1_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "A model estimates that the initial number of photons in an X-ray beam is 800 when the beam reaches the surface of a certain material.  The model estimates that when the beam passes through this material, the number of photons in the beam decreases by 50% for each 7 millimeters of the material the beam passes through.  Which equation represents this model, where \\(I\\) is the estimated number of photons in the beam when the beam reaches a point \\(x\\) millimeters from the surface?",
+    "options": [
+      "A. \\(I=800(7)^{\\frac{x}{2}}\\)",
+      "B. \\(I=800(0.5)^x\\)",
+      "C. \\(I=800(2)^{\\frac{x}{7}}\\)",
+      "D. \\(I=800(0.5)^{\\frac{x}{7}}\\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In the \\(xy\\)-plane, line \\(k\\) passes through the points \\((3,0)\\) and \\((0,5)\\).  Which of the following is an equation of line \\(k\\)?",
+    "options": [
+      "A. \\(3x-5y=15\\)",
+      "B. \\(5x+3y=15\\)",
+      "C. \\(3x+5y=15\\)",
+      "D. \\(5x-3y=15\\)"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Angles",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "In triangle \\(ABC\\) shown, what is the measure of \\(\\angle C\\)?",
+    "options": [
+      "A. \\(124^{\\circ}\\)",
+      "B. \\(146^{\\circ}\\)",
+      "C. \\(56^{\\circ}\\)",
+      "D. \\(34^{\\circ}\\)"
+    ],
+    "image": "data/Images/SAT_2025_OCT_M1_Q15_Image.png",
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\(\\newline x+4y=-3 \\newline 4x-y=22 \\newline \\) The solution to the given system of equations is \\((x,y)\\).  What is the value of \\(3x-5y\\)?",
+    "answer": "25"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Equation of Circles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A circle in the \\(xy\\)-plane has its center at \\((4,-1)\\) and the point \\((-8,4)\\) lies on the circle.  Which equation represents this circle?",
+    "options": [
+      "A. \\((x-4)^2+(y+1)^2=13\\)",
+      "B. \\((x+4)^2+(y+1)^2=169\\)",
+      "C. \\((x-4)^2+(y+1)^2=169\\)",
+      "D. \\((x+4)^2+(y-1)^2=13\\)"
+    ],
+     "answer": "C"
+  },
+    {
+    "id": "SAT_2025_OCT_M1_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Angles",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "In the figure, lines \\(r\\) and \\(s\\) are parallel and line \\(t\\) intersects both lines.  If \\(a=4k+57\\) and \\(b=\\frac{k}{4}+55\\), what is the value of \\(c\\)?",
+    "image": "data/Images/SAT_2025_OCT_M1_Q18_Image.png",
+    "answer": "121"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\newline 0.5x+1.2y=9 \\newline 1.5x+3.6y=27 \\newline \\) How many solutions does the given system of equations have?",
+    "options": [
+      "A. Infinitely many",
+      "B. Exactly two",
+      "C. Exactly one",
+      "D. Zero"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCT_M1_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Descriptive Statistics",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "For a study, a research team measured the heights of 380 king penguins from the Kerguelen Islands and 190 king penguins from the Falkland Islands.  The research team determined that the mean height of the 380 king penguins from the Kerguelen Islands was 87 centimeters and the mean height of the 190 king penguins from the Falkland Islands was 93 centimeters.  What was the mean height, in centimeters, of all 570 king penguins the research team measured for this study?",
+    "options": [
+      "A. 91",
+      "B. 90",
+      "C. 89",
+      "D. 88"
+    ],
+    "answer": "C"
+  },
+    {
+  "id": "SAT_2025_OCT_M1_Q21",
+  "paper": {
+    "year": 2025,
+    "month": "October",
+    "module": 1,
+    "questionNumber": 21
+  },
+  "section": "Math",
+  "topic": "Data Analysis",
+  "subtopic": "Scatterplots",
+  "difficulty": 4,
+  "type": "MCQ",
+  "text": "Which of the following equations is the most appropriate model for the data shown in the scatterplot?",
+  "options": [
+      "A. \\(y=24(1.55)^x\\)",
+      "B. \\(y=24(1.55)^x+18\\)",
+      "C. \\(y=(1.55)^x+23\\)",
+      "D. \\(y=6(1.55)^x+18\\)"
+    ],
+  "image": "data/Images/SAT_2025_OCT_M1_Q21_Image.png",
+  "answer": "D"
+},
+  {
+    "id": "SAT_2025_OCT_M1_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Rearranging Formula",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\qquad 18qrt-2qrs+10rst=0 \\newline \\) In the given equation, \\(q,r,s,\\) and \\(t\\) are positive, and \\(\\frac{q}{t}\\) is greater than 5.  Which expression is equivalent to \\(s\\)?",
+    "options": [
+      "A. \\(\\frac{-9qt}{q-5t}\\)",
+      "B. \\(\\frac{9qt}{q-5t}\\)",
+      "C. \\(18qrt\\)",
+      "D. \\(\\frac{2qt}{q-5t}\\)"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Inequalities",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "\\(\\qquad y \\gt -36 \\newline \\) Which shaded region represents the solutions to the given inequality?",
+    "options": [
+      { "label": "A", "image": "data/Images/SAT_2025_OCT_M2_Q1_ImageA.png" },
+      { "label": "B", "image": "data/Images/SAT_2025_OCT_M2_Q1_ImageB.png" },
+      { "label": "C", "image": "data/Images/SAT_2025_OCT_M2_Q1_ImageC.png" },
+      { "label": "D", "image": "data/Images/SAT_2025_OCT_M2_Q1_ImageD.png" }
+    ],
+    "answer": "B"
+  },
+    {
+    "id": "SAT_2025_OCT_M2_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A chemist combines 25 grams of compound A, 35 grams of compound B, and \\(x\\) grams of compound C.  The resulting mixture has a mass of 125 grams.  What is the value of \\(x\\)?",
+    "options": [
+      "A. 25",
+      "B. 65",
+      "C. 35",
+      "D. 10"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The graph of a system of a linear equation and a nonlinear equation is shown.  What is the solution \\((x,y)\\) to this system?",
+    "options": [
+      "A. \\((4,0)\\)",
+      "B. \\((5,4)\\)",
+      "C. \\((0,0)\\)",
+      "D. \\((0,5)\\)"
+    ],
+    "image": "data/Images/SAT_2025_OCT_M2_Q3_Image.png",
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Carmen needs at least 100 signatures to submit a petition.  If Carmen already has 51 signatures, what is the minimum number of additional signatures Carmen needs to submit the petition?",
+    "options": [
+      "A. 41",
+      "B. 151",
+      "C. 49",
+      "D. 51"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "There are a total of 340 seats in a school auditorium.  During an assembly, students 50% of the seats in the auditorium.  How many seats did the students occupy during this assembly?",
+    "options": [
+      "A. 290",
+      "B. 170",
+      "C. 50",
+      "D. 25"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The graph of the polynomial function \\(f\\), where \\(y=f(x)\\), is shown.  The \\(y\\)-intercept of the graph is \\((0,y)\\).  What is the value of \\(y\\)?",
+     "image": "data/Images/SAT_2025_OCT_M2_Q6_Image.png",
+     "answer": "5"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "If \\(5c=15\\), what is the value of \\(5c-8\\)?",
+    "options": [
+      "A. 3",
+      "B. 67",
+      "C. 7",
+      "D. 23"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Ratio, Rates, and Proportions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The ratio of \\(k\\) to \\(p\\) is constant.  If \\(k=7\\), then \\(p=6\\).  What is the value of \\(k\\) when \\(p=336\\)?",
+    "options": [
+      "A. 288",
+      "B. 56",
+      "C. 48",
+      "D. 392"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Probability",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Each of 185 animals can be classified as one of three species, as shown in the frequency table.  If one of the animals is selected at random, what is the probability of selecting an animal of species Y?",
+    "options": [
+      "A. \\( \\frac{70}{185} \\)",
+      "B. \\( \\frac{3}{185} \\)",
+      "C. \\( \\frac{182}{185} \\)",
+      "D. \\( \\frac{112}{185} \\)"
+    ],
+    "table_data": [
+        {"Classification": "species X", "Frequency": 112},
+        {"Classification": "species Y", "Frequency": 3},
+        {"Classification": "species Z", "Frequency": 70}
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Interpreting Informations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "For certain air temperatures, the table gives wind chill temperatures for two different wind speeds.  According to the table, what is the wind chill temperature, in degrees Fahrenheit (\\(^{\\circ}\\text{F}\\)), when the air temperature is \\(29^{\\circ}\\text{F}\\) and the wind speed is 15 miles per hour (mph)?",
+     "table_data": [
+        {"Air \\(\\newline\\) temperature": "\\(27^{\\circ}\\text{F}\\)", "Wind chill temperature \\(\\newline\\) at wind speed 5 mph": "\\(21^{\\circ}\\text{F}\\)", "Wind chill temperature \\(\\newline\\) at wind speed 15 mph": "\\(15^{\\circ}\\text{F}\\)" },
+        {"Air \\(\\newline\\) temperature": "\\(29^{\\circ}\\text{F}\\)", "Wind chill temperature \\(\\newline\\) at wind speed 5 mph": "\\(24^{\\circ}\\text{F}\\)", "Wind chill temperature \\(\\newline\\) at wind speed 15 mph": "\\(18^{\\circ}\\text{F}\\)"},
+        {"Air \\(\\newline\\) temperature": "\\(31^{\\circ}\\text{F}\\)", "Wind chill temperature \\(\\newline\\) at wind speed 5 mph": "\\(26^{\\circ}\\text{F}\\)", "Wind chill temperature \\(\\newline\\) at wind speed 15 mph": "\\(20^{\\circ}\\text{F}\\)"}
+    ],
+     "answer": "18"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Angles",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "In a right triangle, the measure of one of the acute angles is \\(14^{\\circ}\\).  What is the measure of the other acute angle, in degrees?",
+     "answer": "76"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Factoring",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "Which expression is a factor of \\(3x^2+57x+15\\)?",
+    "options": [
+      "A. \\(3x^2\\)",
+      "B. \\(5x\\)",
+      "C. \\(3\\)",
+      "D. \\(57x\\)"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A city has an area of \\(x\\) square miles and a population density of 1,035 people per square mile.  The suburb adjacent to the city has an area of \\(y\\) square miles and a population density of 535 people per square mile.  The combined population of the city and the suburb adjacent to the city is 13,165 people.  Which equation represents this situation? ",
+    "options": [
+      "A. \\(1,035x+535y=13,165\\)",
+      "B. \\(1,035x+535=13,165y\\)",
+      "C. \\(1,035x+535=1,570y\\)",
+      "D. \\(1,035x+535y=1,570\\)"
+    ],
+    "answer": "A"
+  },
+       {
+    "id": "SAT_2025_OCT_M2_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A triangle has a base length of 48 centimeters and a height of 96 centimeters.  What is the area, in square centimeters, of the triangle?",
+    "options": [
+      "A. 2,304",
+      "B. 1,152",
+      "C. 4,608",
+      "D. 144"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The function \\(f(x)=-40x+340\\) gives the predicted height above the ground \\(f(x)\\), in feet, of a model airplane x minutes after it begins to descend.  What is the predicted height above the ground, in feet, of the model airplane 3 minutes after it begins to descend?",
+    "options": [
+      "A. 120",
+      "B. 220",
+      "C. 300",
+      "D. 460"
+    ],
+    "answer": "B"
+  },
+       {
+    "id": "SAT_2025_OCT_M2_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Rearranging Formula",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\qquad 5a=\\frac{4b^2}{a}-20a \\newline \\) The given equation relates the positive variables \\(a\\) and \\(b\\).  Which equation correctly expresses \\(a\\) in terms of \\(b\\)?",
+    "options": [
+      "A. \\( a=\\frac{4b}{25} \\)",
+      "B. \\( a=\\frac{4b^2}{25} \\)",
+      "C. \\( a=\\frac{2b}{5} \\)",
+      "D. \\( a=\\frac{2b^2}{5} \\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Ratio, Rates and Proportions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "Charlie saves \\(\\frac{3}{5}\\) of the $225 he earns each week from his summer job.  If Charles continues to save at this rate, how much money, in dollars, will Charles save in 3 weeks?",
+    "answer": "405"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The function \\(f\\) is defined by \\(f(x)=2x^3+\\frac{1}{3}x^2-x\\).  What is the value of \\(f(1)\\)?",
+    "options": [
+      "A. \\(\\frac{4}{3}\\)",
+      "B. \\(2\\)",
+      "C. \\(\\frac{10}{3}\\)",
+      "D. \\(6\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In the \\(xy\\)-plane, what is the slope of the line that passes through the points \\((0,0)\\) and \\((13,14)\\)?",
+    "options": [
+      "A. \\(13\\)",
+      "B. \\(\\frac{14}{13}\\)",
+      "C. \\(\\frac{13}{14}\\)",
+      "D. \\(14\\)"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "Function \\(f\\) is defined as \\(f(x)=(2x-5)^2\\), and function \\(g\\) is defined as \\(g(x)=2(2x+7)\\).  Which of the following is equivalent to \\(f(x)+g(x)\\)?",
+    "options": [
+      "A. \\( 4x^2-16x+11 \\)",
+      "B. \\( 4x^2-16x+39 \\)",
+      "C. \\( 4x^2-6x+39 \\)",
+      "D. \\( 4x^2+24x+11 \\)"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "\\( \\qquad 15x^2=15(9) \\newline \\) What is the negative solution to the given equation?",
+    "answer": "-3"
+  },
+      {
+    "id": "SAT_2025_OCT_M2_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "October",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The function \\(f\\) is defined by \\(f(x)=a(4)^x\\), where \\(a\\) is a positive constant.  In the \\(xy\\)-plane, the graph of \\(y=f(x)\\) passes through the point \\((0,13)\\).  What is the value of \\(f(0)\\)?",
+    "options": [
+      "A. 4",
+      "B. 1",
+      "C. 13",
+      "D. 9"
+    ],
+    "answer": "C"
+  },
 
   {
     "id": "SAT_2025_NOV_M1_Q1",
