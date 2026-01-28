@@ -4524,6 +4524,465 @@
     ],
     "answer": "C"
   },
+  
+  {
+    "id": "SAT_2025_OCTV2_M1_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Inequalities",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "An environmental scientist needs to collect at least 38 samples of red clay soil for analysis.  If \\(r\\) represents the number of samples the scientist collects for analysis, which inequality represents this situation?",
+     "options": [
+      "A. \\(r \\leq 38 \\)",
+      "B. \\(r-38 \\geq 38 \\)",
+      "C. \\(r-38 \\leq 38 \\)",
+      "D. \\(r \\geq 38 \\)"
+    ],
+      "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Rearranging Formula",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "\\( \\qquad 7j=k+13m \\newline \\) The given equation relates the distinct positive real numbers \\(j, k,\\) and \\(m\\).  Which equation correctly expresses \\(j\\) in terms of \\(k\\) and \\(m\\)?",
+    "options": [
+      "A. \\(j=7(k+13m\\)",
+      "B. \\(j=\\frac{k}{7}+13m\\)",
+      "C. \\(j=k+\\frac{13m}{7}\\)",
+      "D. \\(j=\\frac{k+13m}{7}\\)"
+    ],
+    "answer": "D"
+  },
+     {
+    "id": "SAT_2025_OCTV2_M1_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The \\(y\\)-intercept of the graph of \\(y=5x^2+72\\) is \\((0,y)\\).  What is the value of \\(y\\)?",
+    "answer": "72"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "An agricultural scientist needs to collect at least 200 soil samples in a certain area for a study on soil quality.  If the scientist has already collected 168 soil samples, what is the minimum number of additional soil samples the scientist needs to collect for the study?",
+    "options": [
+      "A. 12",
+      "B. 32",
+      "C. 148",
+      "D. 368"
+    ],
+    "answer": "B"
+  },
+     {
+    "id": "SAT_2025_OCTV2_M1_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Descriptive Statistics",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "The list gives the speeds, in miles per hour, of 7 serves made by a professional tennis player. \\( \\newline \\qquad 121, 123, 123, 125, 151, 154, 155 \\newline \\) What is the mean speed, in miles per hour, of these 7 serves?",
+    "answer": "136"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The function \\(f\\) is defined by \\(f(x)=\\frac{x}{5}+9\\).  For what value of \\(x\\) does \\(f(x)=13\\)?",
+    "options": [
+      "A. \\(20\\)",
+      "B. \\(-32\\)",
+      "C. \\(13\\)",
+      "D. \\(22\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Unit Conversions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "A triathlon is a multisport race consisting of three different legs.  A triathlon participant completed the cycling leg with an average speed of 19.3 miles per hour.  What was the average speed, in yards per hour, of the participant during the cycling leg? \\( \\newline \\)(1 mile = 1,760 yards)",
+    "options": [
+      "A. 33,968",
+      "B. 91.2",
+      "C. 57.9",
+      "D. 5,280"
+    ],
+    "answer": "A"
+  },
+       {
+    "id": "SAT_2025_OCTV2_M1_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "Line \\(k\\) is defined by \\(y=5x+1\\).  Line \\(j\\) is parallel to line \\(k\\) in the \\(xy\\)-plane and passes through the point \\((0,2)\\).  Which equation defines line \\(j\\)?",
+     "options": [
+      "A. \\(y=5x+2\\)",
+      "B. \\(y=-2x+2\\)",
+      "C. \\(y=-5x+2\\)",
+      "D. \\(y=2x+2\\)"
+    ],
+      "answer": "A"
+  },
+   {
+    "id": "SAT_2025_OCTV2_M1_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Algbera",
+    "subtopic": "Linear Functions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "What is the slope of the graph of \\(y=f(x)\\) shown in the \\(xy\\)-plane above?",
+    "image": "data/Images/SAT_2025_OCTV2_M1_Q9_Image.png",
+    "answer": "3/2"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Angles",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In the figure, line \\(q\\) is parallel to line \\(r\\), and both lines are intersected by line \\(s\\).  If \\(y=2x+9\\), what is the value of \\(x\\)?",
+    "options": [
+      "A. 27",
+      "B. 73",
+      "C. 63",
+      "D. 18"
+    ],
+    "image": "data/Images/SAT_2025_OCTV2_M1_Q10_Image.png",
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Equation of Circles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "What is the center of the circle in the \\(xy\\)-plane defined by the equation \\((x-3)^2+(y+8)^2=9\\)?",
+    "options": [
+      "A. \\((3,-8)\\)",
+      "B. \\((3,8)\\)",
+      "C. \\((-3,-8)\\)",
+      "D. \\((-3,8)\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(\\qquad f(x)=4,000(0.90)^x \\newline \\) A conservation scientist implemented a program to reduce a certain invasive insect population in an area.  The given function estimates this insect species’ population \\(x\\) years after 2008, where \\(x \\leq 8\\).  Which of the following is the best interpretation of 4,000 in this context?",
+    "options": [
+      "A. The estimated percent decrease in the insect population for this species and area every 8 years after 2008",
+      "B. The estimated initial insect population for this species and area in 2008",
+      "C. The estimated percent decrease in the insect population for this species and area each year after 2008",
+      "D. The estimated insect population for this species and area 8 years after 2008"
+    ],
+    "answer": "B"
+  },
+       {
+    "id": "SAT_2025_OCTV2_M1_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Triangles",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which equation gives the relationship between the side lengths of the triangle shown?",
+    "options": [
+      "A. \\(12^2+14^2=a^2\\)",
+      "B. \\(a^2+12^2=14^2\\)",
+      "C. \\(a+12=14\\)",
+      "D. \\(12+14=a\\)"
+    ],
+    "image": "data/Images/SAT_2025_OCTV2_M1_Q13_Image.png",
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Number of Solutions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "How many solutions does the equation \\(14x=6x+8x\\) have?",
+    "options": [
+      "A. Exactly one",
+      "B. Zero",
+      "C. Infinitely many",
+      "D. Exactly two"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\( \\qquad \\frac{x}{(x-1)(x+1)}=\\frac{25}{16x} \\newline \\) Which value is a solution to the given equation?",
+    "options": [
+      "A. \\(\\frac{5}{3}\\)",
+      "B. \\(\\frac{1}{6}\\)",
+      "C. \\(\\frac{5}{18}\\)",
+      "D. \\(1\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Areas and Volumes",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "A right circular cylinder has a height of \\(16\\) inches and a volume of \\(3,136\\pi\\) cubic inches.  What is the radius, in inches, of this cylinder?",
+    "answer": "14"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Model",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "For \\(x=0, y\\) has a value of 200.  The value of \\(y\\) increases by 40% for every increase of 1 in the value of \\(x\\).  Which equation represents this situation?",
+    "options": [
+      "A. \\(y=200(x)^{40}\\)",
+      "B. \\(y=200(1.40)^x\\)",
+      "C. \\(y=200(40)^x\\)",
+      "D. \\(y=200(x)^{1.40}\\)"
+    ],
+     "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "\\( \\newline y=\\frac{1}{2}x-7 \\newline \\frac{1}{2}y=3x+2 \\newline \\) The solution to the given system of equations is \\((x,y)\\).  What is the value of \\(y-x\\)?",
+    "answer": "-6"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M1_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equations",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "\\(\\qquad 80x^2+80x=-10 \\newline \\) One solution to the given equation can be written as \\(x=\\frac{-8-k\\sqrt{2}}{16}\\), where \\(k\\) is a constant.  What is the value of \\(k\\)?",
+    "options": [
+      "A. 4",
+      "B. 80",
+      "C. 32",
+      "D. 128"
+    ],
+    "answer": "A"
+  },
+        {
+    "id": "SAT_2025_OCTV2_M1_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Scatterplots",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "The scatterplot shows the relationship between \\(x\\) and \\(y\\) for the 10 data points in data set A.  Data set B is created by multiplying the \\(y\\)-value of each data point from data set A by 40.  Which of the following equations is the most appropriate model for data set B?",
+    "options": [
+      "A. \\(y=5(2.04)^x\\)",
+      "B. \\(y=40(2.04)^x+40\\)",
+      "C. \\(y=5(2.04)^x+40\\)",
+      "D. \\(y=199(2.04)^x\\)"
+    ],
+    "image": "data/Images/SAT_2025_OCTV2_M1_Q20_Image.png",
+    "answer": "D"
+  },
+    {
+  "id": "SAT_2025_OCTV2_M1_Q21",
+  "paper": {
+    "year": 2025,
+    "month": "October V2",
+    "module": 1,
+    "questionNumber": 21
+  },
+  "section": "Math",
+  "topic": "Additional Topics",
+  "subtopic": "Trigonometry",
+  "difficulty": 4,
+  "type": "MCQ",
+  "text": "Triangle \\(ABC\\) is similar to triangle \\(DEF\\), where angle \\(A\\) corresponds to angle \\(D\\) and angle \\(C\\) corresponds to angle \\(F\\).  Angles \\(B\\) and \\(E\\) are right angles.  If \\(\\cos{A}=\\frac{14}{\\sqrt{421}}\\), what is the value of \\(\\frac{1}{\\sin{F}}\\)?",
+  "options": [
+      "A. \\(\\frac{15}{\\sqrt{421}}\\)",
+      "B. \\(\\frac{14}{\\sqrt{421}}\\)",
+      "C. \\(\\frac{\\sqrt{421}}{14}\\)",
+      "D. \\(\\frac{\\sqrt{421}}{15}\\)"
+    ],
+  "answer": "C"
+},
+    {
+    "id": "SAT_2025_OCTV2_M1_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 1,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 4,
+    "type": "MCQ",
+    "text": "\\(\\newline ax-by=52 \\newline 2ax-8y=48 \\newline \\) In the given system of equations, \\(a\\) and \\(b\\) are constants.  The graphs of these equations in the \\(xy\\)-plane intersect at the point \\((x,4)\\).  What is the value of \\(b\\)?",
+    "options": [
+      "A. \\(3\\)",
+      "B. \\(4\\)",
+      "C. \\(-8\\)",
+      "D. \\(-3\\)"
+    ],
+    "answer": "D"
+  },
 
   {
     "id": "SAT_2025_NOV_M1_Q1",
