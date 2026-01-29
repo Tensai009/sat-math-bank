@@ -4983,6 +4983,472 @@
     ],
     "answer": "D"
   },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q1",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 1
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Data Interpretation",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The line graph shows the number of customers who visited a restaurant each day during a four-day period in the summer.  According to the line graph, for which day during this four-day period did the restaurant have the smallest number of customers who visited?",
+    "options": [
+      "A. Day 1",
+      "B. Day 2",
+      "C. Day 3",
+      "D. Day 4"
+    ],
+    "image": "data/Images/SAT_2025_OCTV2_M2_Q1_Image.png",
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q2",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 2
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Ratio, Rates and Proportions",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "A designer used a total of 23 yards of blue fabric and yellow fabric for a sewing project.  The designer used 17 yards of blue fabric.  How many yards of yellow fabric were used?",
+    "answer": "6"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q3",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 3
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Percentages",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "What is 10% of 450?",
+    "options": [
+      "A. 35",
+      "B. 45",
+      "C. 405",
+      "D. 440"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q4",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 4
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "System of Linear Equations",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "The graph of a system of a linear equation and a nonlinear equation is shown.  What is the solution \\((x,y)\\) to this system?",
+    "options": [
+      "A. \\((0,0)\\)",
+      "B. \\((0,-2)\\)",
+      "C. \\((-2,3)\\)",
+      "D. \\((3,0)\\)"
+    ],
+    "image": "data/Images/SAT_2025_OCTV2_M2_Q4_Image.png",
+    "answer": "C"
+  },
+     {
+    "id": "SAT_2025_OCTV2_M2_Q5",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 5
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(\\qquad f(x)=5x+800 \\newline \\) The function shown gives the total cost \\(f(x)\\), in dollars, for making \\(x\\) units of a certain product.  What is the total cost, in dollars, for making 100 units of this product?",
+    "options": [
+      "A. 100",
+      "B. 500",
+      "C. 800",
+      "D. 1,300"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q6",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 6
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponents and Radicals",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(4x(5xy)\\)?",
+    "options": [
+      "A. \\(20x^2y\\)",
+      "B. \\(4x^2y\\)",
+      "C. \\(20x^2y^2\\)",
+      "D. \\(5x^2y^2\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q7",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 7
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The length, \\(y\\), of a beluga whale was 160 centimeters (cm) when it was born and increased an average of 4.7 cm per month for the first 12 months after it was born.  Which equation best represents this situation, where \\(x\\) is the number of months after the whale was born?",
+    "options": [
+      "A. \\(y=4.7x+160\\)",
+      "B. \\(y=160x\\)",
+      "C. \\(y=4.7x+4.7\\)",
+      "D. \\(y=160x+160\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q8",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 8
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Quadratic Equation",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(\\qquad k^2-47=97 \\newline \\) What is the positive solution to the given equation?",
+    "options": [
+      "A. 12",
+      "B. 50",
+      "C. 72",
+      "D. 144"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q9",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 9
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Equations",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "\\(\\qquad 9x+x=7x+x+9 \\newline \\) Which of the following equations has the same solution as the given equation?",
+    "options": [
+      "A. \\( 16x=-9 \\)",
+      "B. \\( 16x=9 \\)",
+      "C. \\( 2x=9 \\)",
+      "D. \\( 2x=-9 \\)"
+    ],
+    "answer": "C"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q10",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 10
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Interpreting Linear Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Harper deposited a fixed amount into her bank account each month.  The function \\(f(t)=400+30t\\) gives the amount, in dollars, in Harper’s bank account after \\(t\\) monthly deposits.  What is the best interpretation of 30 in this context?",
+     "options": [
+      "A. With each monthly deposit, the amount in Harper’s bank account increased by $30.",
+      "B. Before Harper made any monthly deposits, the amount in her bank account was $30.",
+      "C. After 1 monthly deposit, the amount in Harper’s bank account was $30.",
+      "D. Harper made a total of 30 monthly deposits."
+    ],
+     "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q11",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 11
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Data Interpretation",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "The frequency table summarizes the 105 data values in a data set.  What is the minimum value of the data set?",
+     "table_data": [
+        {"Data value": "28", "Frequency": "13"},
+        {"Data value": "30", "Frequency": "15"},
+        {"Data value": "31", "Frequency": "16"},
+        {"Data value": "32", "Frequency": "17"},
+        {"Data value": "33", "Frequency": "16"},
+        {"Data value": "34", "Frequency": "15"},
+        {"Data value": "35", "Frequency": "13"}
+    ],
+     "answer": "28"
+  },
+        {
+    "id": "SAT_2025_OCTV2_M2_Q12",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 12
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "What is the \\(y\\)-intercept of the graph of \\(y=x^2+27\\) in the \\(xy\\)-plane?",
+    "options": [
+      "A. \\((0,-27)\\)",
+      "B. \\((0,28)\\)",
+      "C. \\((0,27)\\)",
+      "D. \\((0,0)\\)"
+    ],
+    "answer": "C"
+  },
+        {
+    "id": "SAT_2025_OCTV2_M2_Q13",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 13
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Exponential Models",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "The graph shown gives the estimated value, in dollars, of a mountain bike as a function of the number of months since it was purchased.  What is the best interpretation of the \\(y\\)-intercept of the graph in this context?",
+    "options": [
+      "A. The estimated value of the bike decreased by approximately 2.75% each year after it was purchased.",
+      "B. The estimated value of the bike decreased by $275 in the 24 months after it was purchased.",
+      "C. The estimated value of the bike 24 months after it was purchased was $275.",
+      "D. The estimated value of the bike was $275 when it was purchased."
+    ],
+    "image": "data/Images/SAT_2025_OCTV2_M2_Q13_Image.png",
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q14",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 14
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "For a linear relationship between \\(x\\) and \\(y\\), the table gives three values of \\(x\\) and their corresponding values of \\(y\\).  Which equation represents this relationship?",
+    "options": [
+      "A. \\(y=x+10\\)",
+      "B. \\(y=10x+70\\)",
+      "C. \\(y=10x\\)",
+      "D. \\(y=x+80\\)"
+    ],
+    "table_data": [
+        {"\\(x\\)": "0", "\\(y\\)": "70"},
+        {"\\(x\\)": "1", "\\(y\\)": "80"},
+        {"\\(x\\)": "2", "\\(y\\)": "90"}
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q15",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 15
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Algebraic Expressions",
+    "difficulty": 2,
+    "type": "MCQ",
+    "text": "Which expression is equivalent to \\(72t^2s^3-48t^3s\\)?",
+    "options": [
+      "A. \\(4t^2s(18s^2-12t)\\)",
+      "B. \\(4t^2s(18s^3-12t)\\)",
+      "C. \\(4ts(18s^2-12ts)\\)",
+      "D. \\(4ts(18t^2s^2-12t)\\)"
+    ],
+    "answer": "A"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q16",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 16
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 1,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by \\(f(x)=x^3+7\\).  What is the value of \\(f(2)\\)?",
+    "answer": "15"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q17",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 17
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Similar Triangles",
+    "difficulty": 2,
+    "type": "FillIn",
+    "text": "In triangle \\(XYZ\\), the measure of angle \\(Y\\) is 90 degrees.  Triangle \\(RST\\) (not shown) is similar to triangle \\(XYZ\\) such that \\(R, S,\\) and \\(T\\) correspond to \\(X, Y,\\) and \\(Z,\\) respectively.  Each side of triangle \\(RST\\) is 19 times the length of the corresponding side of triangle \\(XYZ\\).  What is the measure, in degrees, of one of the angles in triangle \\(RST\\)?",
+    "image": "data/Images/SAT_2025_OCTV2_M2_Q17_Image.png",
+    "answer": "405"
+  },
+        {
+    "id": "SAT_2025_OCTV2_M2_Q18",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 18
+    },
+    "section": "Math",
+    "topic": "Data Analysis",
+    "subtopic": "Margin of Error",
+    "difficulty": 1,
+    "type": "MCQ",
+    "text": "A snack company advertises that bags of pretzels produced by the company weigh, on average, 1 pound each.  To test this, Sam selected at random 40 bags of pretzels produced by the company and weighed each bag.  Based on his measurements, Sam estimated that for all bags of pretzels produced by the company, the average weight per bag is 1.05 pounds, with a margin of error of 0.06 pounds.  For all bags of pretzels produced by the company, which of the following is the most appropriate conclusion about the average weight \\(w\\), in pounds, per bag?",
+    "options": [
+      "A. \\(0.99 \\leq w \\leq 1.05 \\)",
+      "B. \\(w=1.05\\)",
+      "C. \\(1.05 \\leq w \\leq 1.11 \\)",
+      "D. \\(0.99 \\leq w \\leq 1.11 \\)"
+    ],
+    "answer": "D"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q19",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 19
+    },
+    "section": "Math",
+    "topic": "Algebra",
+    "subtopic": "Linear Functions",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "In the \\(xy\\)-plane, line \\(k\\) passes through the points \\((0,-7)\\) and \\((1,-1)\\).  Which equation defines line \\(k\\)?",
+    "options": [
+      "A. \\(y=-x+6\\)",
+      "B. \\(y=6x-7\\)",
+      "C. \\(y=\\frac{1}{6}x-7\\)",
+      "D. \\(y=-x+\\frac{1}{6}\\)"
+    ],
+    "answer": "B"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q20",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 20
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 3,
+    "type": "FillIn",
+    "text": "The function \\(f\\) is defined by \\(f(x)=b^x+c\\), where \\(b\\) and \\(c\\) are positive constants.  In the \\(xy\\)-plane, the graph of \\(y=f(x)\\) passes through the point \\((0,25)\\).  What is the value \\(f(0)\\)?",
+    "answer": "25"
+  },
+      {
+    "id": "SAT_2025_OCTV2_M2_Q21",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 21
+    },
+    "section": "Math",
+    "topic": "Additional Topics",
+    "subtopic": "Angles",
+    "difficulty": 3,
+    "type": "MCQ",
+    "text": "The measure of anlge \\(Z\\) is \\(45^{\\circ}\\).  What is the measure, in radians, of angle \\(Z\\)?",
+    "options": [
+      "A. \\(\\frac{1}{2}\\pi\\)",
+      "B. \\(\\frac{3}{4}\\pi\\)",
+      "C. \\(\\frac{1}{8}\\pi\\)",
+      "D. \\(\\frac{1}{4}\\pi\\)"
+    ],
+    "answer": "D"
+  },
+        {
+    "id": "SAT_2025_OCTV2_M2_Q22",
+    "paper": {
+      "year": 2025,
+      "month": "October V2",
+      "module": 2,
+      "questionNumber": 22
+    },
+    "section": "Math",
+    "topic": "Advanced Math",
+    "subtopic": "Nonlinear Functions",
+    "difficulty": 4,
+    "type": "FillIn",
+    "text": "For a certain type of rope, the equation \\(y=900ax^2\\), where a is a constant, gives the estimated breaking strength y, in pounds, of a rope with a circumference of \\(x\\) inches.  Based on this equation, if a rope of this type has a circumference of 1.75 inches, it has an estimated breaking strength of 3,858.75 pounds.  What is the estimated breaking strength, in pounds, of a rope of this type that has a circumference of 3.50 inches?",
+    "answer": "15435"
+  },
 
   {
     "id": "SAT_2025_NOV_M1_Q1",
